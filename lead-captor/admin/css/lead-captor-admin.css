@@ -1,0 +1,60 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.image-preview-wrapper {
+  width: 150px;
+}
+#lead_captor_image_preview {
+  max-width: 100%;
+  max-height: 100%;
+}
+/* WP Editor */
+.lead_captor_admin .wp-editor-wrap {
+  max-width: 600px;
+}
+.lead_captor_templates_wrapper {
+  margin-bottom: 30px;
+}
+.lead_captor_templates_wrapper .slide {
+  height: 90px;
+  margin: 5px;
+  border-radius: 3px;
+  border: 2px solid transparent;
+  padding: 5px;
+}
+.lead_captor_templates_wrapper .slide.template-selected {
+  border: 2px solid #0173AA;
+}
+.lead_captor_templates_wrapper .slide img {
+  max-height: 100%;
+  width: auto;
+}
+.lead_captor_template_preview .slide {
+  width: 100%;
+  padding: 35px;
+}
+.lead_captor_template_preview .slide::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  display: block;
+  z-index: 1000;
+}
+.lead_captor_template_preview .slide .lead_captor_footer {
+  display: none;
+}
+.tools_page_lead-captor-admin .lead_captor_admin > h2:first-child {
+  position: relative;
+}
+.ql_logo {
+  position: absolute;
+  top: 10px;
+  right: 0;
+}
+.ql_logo img {
+  height: 25px;
+}

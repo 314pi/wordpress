@@ -1,0 +1,278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Lead Captor\n"
+"POT-Creation-Date: 2017-09-15 02:48-0300\n"
+"PO-Revision-Date: 2017-09-15 02:48-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: lead-captor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-lead-captor-admin.php:123 admin/class-lead-captor-admin.php:313
+#: admin/class-lead-captor-admin.php:749
+msgid "Export CSV"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:141
+#: admin/partials/lead-captor-admin-display.php:23
+msgid "Lead Captor Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-lead-captor-admin.php:142 includes/class-lead-captor.php:374
+msgid "Lead Captor"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:171
+#: admin/partials/lead-captor-admin-display.php:31
+msgid "Popup Settings"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:178
+msgid "Templates"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:186
+msgid "Title"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:194
+msgid "Subtitle"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:202
+msgid "Content"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:210
+msgid "Button Text"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:218
+msgid "Placeholder"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:226
+msgid "Image"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:243
+#: admin/partials/lead-captor-admin-display.php:32
+msgid "Behavior Settings"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:250
+msgid "Delay"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:254
+msgid "Time to wait before showing the popup, in milliseconds."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:259
+msgid "Timer"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:263
+msgid ""
+"By default, Lead Captor won't fire in the first second to prevent false "
+"positives, as it's unlikely the user will be able to exit the page within "
+"less than a second. If you want to change the amount of time that firing is "
+"surpressed for, you can pass in a number of milliseconds."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:268
+msgid "Sensitivity"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:272
+msgid ""
+"Lead Captor fires when the mouse cursor moves close to (or passes) the top "
+"of the viewport. You can define how far the mouse has to be before Lead "
+"Captor fires. The higher value, the more sensitive, and the more quickly the "
+"event will fire."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:277
+msgid "Cookie expiration"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:281
+msgid ""
+"Lead Captor sets a cookie by default to prevent the modal from appearing "
+"more than once per user. You can set the cookie expiration (in days) to "
+"adjust the time period before the modal will appear again for a user."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:286
+msgid "Aggressive mode"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:290
+msgid ""
+"By default, Lead Captor will only fire once for each visitor. When Lead "
+"Captor fires, a cookie is created to ensure a non obtrusive experience. If "
+"you enable aggressive mode, the popup will fire any time the page is "
+"reloaded, for the same user. This can be useful when testing a popup."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:306
+#: admin/partials/lead-captor-admin-display.php:33
+msgid "Export Subscribers"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:317
+msgid "Exports all subscribers in a comma separated file."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:332
+#: admin/partials/lead-captor-admin-display.php:34
+msgid "MailChimp"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:339
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:343
+#, php-format
+msgid "Learn how to find or generate your %1$s API Key here %2$s."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:348
+msgid "List to add Subscribers"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:517 admin/class-lead-captor-admin.php:636
+#: public/partials/lead-captor-public-display.php:27
+msgid ""
+"You’ll receive an exclusive tutorial for your WordPress site on:\n"
+"<p class=\"lead_captor_item\"><i class=\"lead-captor-file-check\"></i>How to "
+"change your login URL</p>"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:578
+msgid "Upload Image"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:621
+msgid "Preview"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:667 admin/class-lead-captor-admin.php:682
+msgid "ms"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:711
+msgid "days"
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:822
+msgid "Select list..."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:845
+msgid "Add a valid API Key above."
+msgstr ""
+
+#: admin/class-lead-captor-admin.php:862
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:4
+msgctxt "post type general name"
+msgid "Subscribers"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:5
+msgctxt "post type singular name"
+msgid "Subscriber"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:6
+msgctxt "admin menu"
+msgid "Subscribers"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:7
+msgctxt "add new on admin bar"
+msgid "Subscriber"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:8
+msgctxt "Subscriber"
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:9
+msgid "Add New Subscriber"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:10
+msgid "New Subscriber"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:11
+msgid "Edit Subscriber"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:12
+msgid "View Subscriber"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:13
+msgid "All Subscribers"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:14
+msgid "Search Subscriber"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:15
+msgid "Parent Subscriber:"
+msgstr ""
+
+#: admin/partials/custom-post-types.php:16
+msgid "No Subscriber found."
+msgstr ""
+
+#: admin/partials/custom-post-types.php:17
+msgid "No Subscriber found in Trash."
+msgstr ""
+
+#: admin/partials/custom-post-types.php:22
+msgid "Description."
+msgstr ""
+
+#: admin/partials/lead-captor-admin-display.php:19
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.quemalabs.com/plugin/lead-captor/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Attractive popup forms on exit intent to convert visitors into subscribers."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quema Labs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.quemalabs.com/"
+msgstr ""
