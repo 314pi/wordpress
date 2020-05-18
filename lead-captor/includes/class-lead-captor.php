@@ -109,7 +109,7 @@ class Lead_Captor {
         </div>
         
     </div>
-    <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p>
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
 </div>
 EOD
 			),
@@ -138,7 +138,7 @@ EOD
         </div>
         
     </div>
-    <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p>
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
 </div>
 EOD
 			),
@@ -168,7 +168,7 @@ EOD
         </div>
         
     </div>
-    <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p>
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
 </div>
 EOD
 			),
@@ -198,7 +198,7 @@ EOD
         </div>
         
     </div>
-    <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p>
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
 </div>
 EOD
 			)
