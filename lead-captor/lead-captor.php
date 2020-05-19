@@ -6,10 +6,10 @@
  *
  * @link              https://www.quemalabs.com/
  * @since             1.0.0
- * @package           Lead_Captor
+ * @package           Magic_Pi
  *
  * @wordpress-plugin
- * Plugin Name:       Lead Captor
+ * Plugin Name:       Magic Pi
  * Plugin URI:        https://www.quemalabs.com/plugin/lead-captor/
  * Description:       Attractive popup forms on exit intent to convert visitors into subscribers.
  * Version:           1.1.1
@@ -32,7 +32,7 @@ if ( ! defined( 'WPINC' ) ) {
  */
 function activate_lead_captor() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-lead-captor-activator.php';
-	Lead_Captor_Activator::activate();
+	Magic_Pi_Activator::activate();
 }
 
 /**
@@ -41,7 +41,7 @@ function activate_lead_captor() {
  */
 function deactivate_lead_captor() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-lead-captor-deactivator.php';
-	Lead_Captor_Deactivator::deactivate();
+	Magic_Pi_Deactivator::deactivate();
 }
 
 register_activation_hook( __FILE__, 'activate_lead_captor' );
@@ -67,7 +67,7 @@ function run_lead_captor() {
 	static $lead_captor = null;
 
 	if ( is_null( $lead_captor ) ) {
-		$lead_captor = new Lead_Captor();
+		$lead_captor = new Magic_Pi();
 		$lead_captor->run();
 	}
     return $lead_captor;

@@ -6,8 +6,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/public
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/public
  */
 
 /**
@@ -16,11 +16,11 @@
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the admin-specific stylesheet and JavaScript.
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/public
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/public
  * @author     Quema Labs
  */
-class Lead_Captor_Public {
+class Magic_Pi_Public {
 
 	/**
 	 * The ID of this plugin.

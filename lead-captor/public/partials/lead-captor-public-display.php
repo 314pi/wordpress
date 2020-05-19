@@ -8,8 +8,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/public/partials
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/public/partials
  */
 ?>
 <div class="lead_captor_wrap">

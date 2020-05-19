@@ -8,8 +8,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/admin/partials
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/admin/partials
  */
 ?>
 
@@ -20,7 +20,7 @@ if ( ! current_user_can( 'manage_options' ) )  {
 }
 ?>
 <div class="wrap lead_captor_admin">  
-    <h2><?php esc_html_e( 'Lead Captor Settings', 'lead-captor' ); ?></h2>  
+    <h2><?php esc_html_e( 'Magic Pi Settings', 'lead-captor' ); ?></h2>  
     <?php settings_errors(); ?>  
 
     <?php  

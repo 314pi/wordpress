@@ -9,8 +9,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/includes
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/includes
  */
 
 /**
@@ -23,11 +23,11 @@
  * version of the plugin.
  *
  * @since      1.0.0
- * @package    Lead_Captor
- * @subpackage Lead_Captor/includes
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/includes
  * @author     Quema Labs
  */
-class Lead_Captor {
+class Magic_Pi {
 
 	/**
 	 * The loader that's responsible for maintaining and registering all hooks that power
@@ -35,7 +35,7 @@ class Lead_Captor {
 	 *
 	 * @since    1.0.0
 	 * @access   protected
-	 * @var      Lead_Captor_Loader    $loader    Maintains and registers all hooks for the plugin.
+	 * @var      Magic_Pi_Loader    $loader    Maintains and registers all hooks for the plugin.
 	 */
 	protected $loader;
 
@@ -109,7 +109,7 @@ class Lead_Captor {
         </div>
         
     </div>
-    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Magic Pi</a></p> -->
 </div>
 EOD
 			),
@@ -138,7 +138,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Magic Pi</a></p> -->
 </div>
 EOD
 			),
@@ -168,7 +168,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Magic Pi</a></p> -->
 </div>
 EOD
 			),
@@ -198,7 +198,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Lead Captor</a></p> -->
+    <!-- <p class="lead_captor_footer">by <a href="https://www.quemalabs.com/plugin/lead-captor/">Magic Pi</a></p> -->
 </div>
 EOD
 			)
@@ -218,10 +218,10 @@ EOD
 	 *
 	 * Include the following files that make up the plugin:
 	 *
-	 * - Lead_Captor_Loader. Orchestrates the hooks of the plugin.
-	 * - Lead_Captor_i18n. Defines internationalization functionality.
-	 * - Lead_Captor_Admin. Defines all hooks for the admin area.
-	 * - Lead_Captor_Public. Defines all hooks for the public side of the site.
+	 * - Magic_Pi_Loader. Orchestrates the hooks of the plugin.
+	 * - Magic_Pi_i18n. Defines internationalization functionality.
+	 * - Magic_Pi_Admin. Defines all hooks for the admin area.
+	 * - Magic_Pi_Public. Defines all hooks for the public side of the site.
 	 *
 	 * Create an instance of the loader which will be used to register the hooks
 	 * with WordPress.
@@ -259,14 +259,14 @@ EOD
 		 */
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-lead-captor-mailchimp.php';
 
-		$this->loader = new Lead_Captor_Loader();
+		$this->loader = new Magic_Pi_Loader();
 
 	}
 
 	/**
 	 * Define the locale for this plugin for internationalization.
 	 *
-	 * Uses the Lead_Captor_i18n class in order to set the domain and to register the hook
+	 * Uses the Magic_Pi_i18n class in order to set the domain and to register the hook
 	 * with WordPress.
 	 *
 	 * @since    1.0.0
@@ -274,7 +274,7 @@ EOD
 	 */
 	private function set_locale() {
 
-		$plugin_i18n = new Lead_Captor_i18n();
+		$plugin_i18n = new Magic_Pi_i18n();
 
 		$this->loader->add_action( 'plugins_loaded', $plugin_i18n, 'load_plugin_textdomain' );
 
@@ -289,7 +289,7 @@ EOD
 	 */
 	private function define_admin_hooks() {
 
-		$plugin_admin = new Lead_Captor_Admin( $this->get_lead_captor(), $this->get_version() );
+		$plugin_admin = new Magic_Pi_Admin( $this->get_lead_captor(), $this->get_version() );
 
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
@@ -314,7 +314,7 @@ EOD
 	 */
 	private function define_public_hooks() {
 
-		$plugin_public = new Lead_Captor_Public( $this->get_lead_captor(), $this->get_version() );
+		$plugin_public = new Magic_Pi_Public( $this->get_lead_captor(), $this->get_version() );
 
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
@@ -348,7 +348,7 @@ EOD
 	 * The reference to the class that orchestrates the hooks with the plugin.
 	 *
 	 * @since     1.0.0
-	 * @return    Lead_Captor_Loader    Orchestrates the hooks of the plugin.
+	 * @return    Magic_Pi_Loader    Orchestrates the hooks of the plugin.
 	 */
 	public function get_loader() {
 		return $this->loader;
@@ -371,7 +371,7 @@ EOD
 	 * @return    string    The version number of the plugin.
 	 */
 	public function get_nice_name() {
-		return esc_html__( 'Lead Captor', 'lead-captor' );
+		return esc_html__( 'Magic Pi', 'lead-captor' );
 	}
 
 	/**

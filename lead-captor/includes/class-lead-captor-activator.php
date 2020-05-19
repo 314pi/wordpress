@@ -6,8 +6,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/includes
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Lead_Captor
- * @subpackage Lead_Captor/includes
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/includes
  * @author     Quema Labs
  */
-class Lead_Captor_Activator {
+class Magic_Pi_Activator {
 
 	/**
 	 * Short Description. (use period)

@@ -22,7 +22,7 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
+ * @package    Magic_Pi
  */
 
 // If uninstall not called from WordPress, then exit.

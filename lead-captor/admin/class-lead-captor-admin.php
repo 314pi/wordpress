@@ -6,8 +6,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/admin
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/admin
  */
 
 /**
@@ -16,11 +16,11 @@
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the admin-specific stylesheet and JavaScript.
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/admin
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/admin
  * @author     Quema Labs
  */
-class Lead_Captor_Admin {
+class Magic_Pi_Admin {
 
 	/**
 	 * The ID of this plugin.
@@ -138,8 +138,8 @@ class Lead_Captor_Admin {
 
 		add_submenu_page( 
 			'tools.php', // $parent_slug
-			esc_attr__( 'Lead Captor Settings', 'lead-captor' ), // $page_title
-			esc_attr__( 'Lead Captor', 'lead-captor' ), // $menu_title
+			esc_attr__( 'Magic Pi Settings', 'lead-captor' ), // $page_title
+			esc_attr__( 'Magic Pi', 'lead-captor' ), // $menu_title
 			'manage_options', // $capability, 
 			'lead-captor-admin', // $menu_slug, 
 			array( &$this, 'admin_page' )
@@ -260,7 +260,7 @@ class Lead_Captor_Admin {
 		    array( &$this, 'lead_captor_behavior_timer_callback' ),
 		    'lead_captor_behavior_options',                     
 		    'lead_captor_behavior_settings',
-		    array( 'description' => esc_attr__( "By default, Lead Captor won't fire in the first second to prevent false positives, as it's unlikely the user will be able to exit the page within less than a second. If you want to change the amount of time that firing is surpressed for, you can pass in a number of milliseconds.", 'lead-captor' ) )
+		    array( 'description' => esc_attr__( "By default, Magic Pi won't fire in the first second to prevent false positives, as it's unlikely the user will be able to exit the page within less than a second. If you want to change the amount of time that firing is surpressed for, you can pass in a number of milliseconds.", 'lead-captor' ) )
 		);
 
 		add_settings_field(  
@@ -269,7 +269,7 @@ class Lead_Captor_Admin {
 		    array( &$this, 'lead_captor_behavior_sensitivity_callback' ),
 		    'lead_captor_behavior_options',                     
 		    'lead_captor_behavior_settings',
-		    array( 'description' => esc_attr__( "Lead Captor fires when the mouse cursor moves close to (or passes) the top of the viewport. You can define how far the mouse has to be before Lead Captor fires. The higher value, the more sensitive, and the more quickly the event will fire.", 'lead-captor' ) )
+		    array( 'description' => esc_attr__( "Magic Pi fires when the mouse cursor moves close to (or passes) the top of the viewport. You can define how far the mouse has to be before Magic Pi fires. The higher value, the more sensitive, and the more quickly the event will fire.", 'lead-captor' ) )
 		);
 
 		add_settings_field(  
@@ -278,7 +278,7 @@ class Lead_Captor_Admin {
 		    array( &$this, 'lead_captor_behavior_cookie_expiration_callback' ),
 		    'lead_captor_behavior_options',                     
 		    'lead_captor_behavior_settings',
-		    array( 'description' => esc_attr__( "Lead Captor sets a cookie by default to prevent the modal from appearing more than once per user. You can set the cookie expiration (in days) to adjust the time period before the modal will appear again for a user.", 'lead-captor' ) )
+		    array( 'description' => esc_attr__( "Magic Pi sets a cookie by default to prevent the modal from appearing more than once per user. You can set the cookie expiration (in days) to adjust the time period before the modal will appear again for a user.", 'lead-captor' ) )
 		);
 
 		add_settings_field(  
@@ -287,7 +287,7 @@ class Lead_Captor_Admin {
 		    array( &$this, 'lead_captor_behavior_aggressive_mode_callback' ),
 		    'lead_captor_behavior_options',                     
 		    'lead_captor_behavior_settings',
-		    array( 'description' => esc_attr__( "By default, Lead Captor will only fire once for each visitor. When Lead Captor fires, a cookie is created to ensure a non obtrusive experience. If you enable aggressive mode, the popup will fire any time the page is reloaded, for the same user. This can be useful when testing a popup.", 'lead-captor' ) )
+		    array( 'description' => esc_attr__( "By default, Magic Pi will only fire once for each visitor. When Magic Pi fires, a cookie is created to ensure a non obtrusive experience. If you enable aggressive mode, the popup will fire any time the page is reloaded, for the same user. This can be useful when testing a popup.", 'lead-captor' ) )
 		);
 
 		do_action( 'lead_captor_add_behavior_settings' );
@@ -814,9 +814,9 @@ class Lead_Captor_Admin {
 
 
 		if ( ! empty( $this->mailchimp_options['lead_captor_mailchimp_api_key'] ) ) {
-			$Lead_Captor_MailChimp = new Lead_Captor_MailChimp( $this->mailchimp_options['lead_captor_mailchimp_api_key'] );
+			$Magic_Pi_MailChimp = new Magic_Pi_MailChimp( $this->mailchimp_options['lead_captor_mailchimp_api_key'] );
 			//Get lists from MailChimp
-			$result = $Lead_Captor_MailChimp->get('lists');
+			$result = $Magic_Pi_MailChimp->get('lists');
 
 			// Prepare default value
 			$list_to_show = array( '0' => esc_attr__( 'Select list...', 'lead-captor' ) );

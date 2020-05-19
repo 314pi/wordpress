@@ -7,7 +7,7 @@
  * @author Drew McLellan <drew.mclellan@gmail.com>
  * @version 2.2
  */
-class Lead_Captor_MailChimp
+class Magic_Pi_MailChimp
 {
     private $api_key;
     private $api_endpoint = 'https://<dc>.api.mailchimp.com/3.0';

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"Project-Id-Version: Lead Captor\n"
+"Project-Id-Version: Magic Pi\n"
 "POT-Creation-Date: 2017-09-15 02:48-0300\n"
 "PO-Revision-Date: 2017-09-15 02:48-0300\n"
 "Last-Translator: \n"
@@ -27,12 +27,12 @@ msgstr ""
 
 #: admin/class-lead-captor-admin.php:141
 #: admin/partials/lead-captor-admin-display.php:23
-msgid "Lead Captor Settings"
+msgid "Magic Pi Settings"
 msgstr ""
 
 #. Plugin Name of the plugin/theme
 #: admin/class-lead-captor-admin.php:142 includes/class-lead-captor.php:374
-msgid "Lead Captor"
+msgid "Magic Pi"
 msgstr ""
 
 #: admin/class-lead-captor-admin.php:171
@@ -87,7 +87,7 @@ msgstr ""
 
 #: admin/class-lead-captor-admin.php:263
 msgid ""
-"By default, Lead Captor won't fire in the first second to prevent false "
+"By default, Magic Pi won't fire in the first second to prevent false "
 "positives, as it's unlikely the user will be able to exit the page within "
 "less than a second. If you want to change the amount of time that firing is "
 "surpressed for, you can pass in a number of milliseconds."
@@ -99,7 +99,7 @@ msgstr ""
 
 #: admin/class-lead-captor-admin.php:272
 msgid ""
-"Lead Captor fires when the mouse cursor moves close to (or passes) the top "
+"Magic Pi fires when the mouse cursor moves close to (or passes) the top "
 "of the viewport. You can define how far the mouse has to be before Lead "
 "Captor fires. The higher value, the more sensitive, and the more quickly the "
 "event will fire."
@@ -111,7 +111,7 @@ msgstr ""
 
 #: admin/class-lead-captor-admin.php:281
 msgid ""
-"Lead Captor sets a cookie by default to prevent the modal from appearing "
+"Magic Pi sets a cookie by default to prevent the modal from appearing "
 "more than once per user. You can set the cookie expiration (in days) to "
 "adjust the time period before the modal will appear again for a user."
 msgstr ""
@@ -122,7 +122,7 @@ msgstr ""
 
 #: admin/class-lead-captor-admin.php:290
 msgid ""
-"By default, Lead Captor will only fire once for each visitor. When Lead "
+"By default, Magic Pi will only fire once for each visitor. When Lead "
 "Captor fires, a cookie is created to ensure a non obtrusive experience. If "
 "you enable aggressive mode, the popup will fire any time the page is "
 "reloaded, for the same user. This can be useful when testing a popup."

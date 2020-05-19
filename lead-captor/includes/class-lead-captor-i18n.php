@@ -9,8 +9,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Lead_Captor
- * @subpackage Lead_Captor/includes
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/includes
  */
 
 /**
@@ -20,11 +20,11 @@
  * so that it is ready for translation.
  *
  * @since      1.0.0
- * @package    Lead_Captor
- * @subpackage Lead_Captor/includes
+ * @package    Magic_Pi
+ * @subpackage Magic_Pi/includes
  * @author     Quema Labs
  */
-class Lead_Captor_i18n {
+class Magic_Pi_i18n {
 
 
 	/**
