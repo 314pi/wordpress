@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       https://www.quemalabs.com
+ * @link       https://www.magicpi.top
  * @since      1.0.0
  *
  * @package    Pi_Popup
@@ -22,7 +22,7 @@
  * @since      1.0.0
  * @package    Pi_Popup
  * @subpackage Pi_Popup/includes
- * @author     Quema Labs
+ * @author     MagicPi
  */
 class Pi_Popup_i18n {
 

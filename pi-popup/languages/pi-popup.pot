@@ -261,7 +261,7 @@ msgid "You do not have sufficient permissions to access this page."
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "https://www.quemalabs.com/plugin/pi-popup/"
+msgid "https://www.magicpi.top/plugin/pi-popup/"
 msgstr ""
 
 #. Description of the plugin/theme
@@ -270,9 +270,9 @@ msgid ""
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "Quema Labs"
+msgid "MagicPi"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "https://www.quemalabs.com/"
+msgid "https://www.magicpi.top/"
 msgstr ""

@@ -4,17 +4,17 @@
  * The plugin bootstrap file
  *
  *
- * @link              https://www.quemalabs.com/
+ * @link              https://www.magicpi.top/
  * @since             1.0.0
  * @package           Pi_Popup
  *
  * @wordpress-plugin
  * Plugin Name:       Pi Popup
- * Plugin URI:        https://www.quemalabs.com/plugin/pi-popup/
+ * Plugin URI:        https://www.magicpi.top/plugin/pi-popup/
  * Description:       Attractive popup forms on exit intent to convert visitors into subscribers.
  * Version:           1.1.1
- * Author:            Quema Labs
- * Author URI:        https://www.quemalabs.com/
+ * Author:            MagicPi
+ * Author URI:        https://www.magicpi.top/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       pi-popup

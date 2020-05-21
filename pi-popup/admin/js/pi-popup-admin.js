@@ -144,8 +144,8 @@
 	    //Add Export CSV button on Edit Subscriber Page
 	    $(".edit-php.post-type-lead-subscriber .tablenav.top .actions:nth-child(2)").after('<div class="alignleft"><a class="button" href="' + pi_popup_var.settings_page + '">' + pi_popup_var.export_text + '</a></div>');
 
-	    //Add Quema Labs logo in Admin page
-	    $(".tools_page_pi-popup-admin .pi_popup_admin > h2:first-child").append('<a href="https://www.quemalabs.com" class="ql_logo" target="_blank"><img src="' + pi_popup_var.image_url + 'quema-labs.png"></a>');
+	    //Add MagicPi logo in Admin page
+	    $(".tools_page_pi-popup-admin .pi_popup_admin > h2:first-child").append('<a href="https://www.magicpi.top" class="ql_logo" target="_blank"><img src="' + pi_popup_var.image_url + 'quema-labs.png"></a>');
 
 
 	});// on ready

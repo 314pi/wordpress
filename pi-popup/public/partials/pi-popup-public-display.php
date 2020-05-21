@@ -5,7 +5,7 @@
  *
  * This file is used to markup the public-facing aspects of the plugin.
  *
- * @link       https://www.quemalabs.com
+ * @link       https://www.magicpi.top
  * @since      1.0.0
  *
  * @package    Pi_Popup

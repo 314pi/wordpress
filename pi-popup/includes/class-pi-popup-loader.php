@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://www.quemalabs.com
+ * @link       https://www.magicpi.top
  * @since      1.0.0
  *
  * @package    Pi_Popup
@@ -19,7 +19,7 @@
  *
  * @package    Pi_Popup
  * @subpackage Pi_Popup/includes
- * @author     Quema Labs
+ * @author     MagicPi
  */
 class Pi_Popup_Loader {
 

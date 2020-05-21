@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       https://www.quemalabs.com
+ * @link       https://www.magicpi.top
  * @since      1.0.0
  *
  * @package    Pi_Popup
@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Pi_Popup
  * @subpackage Pi_Popup/includes
- * @author     Quema Labs
+ * @author     MagicPi
  */
 class Pi_Popup {
 
@@ -109,7 +109,7 @@ class Pi_Popup {
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -138,7 +138,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -168,7 +168,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -198,7 +198,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			)
