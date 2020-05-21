@@ -109,7 +109,7 @@ class Pi_Popup {
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -138,7 +138,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -168,7 +168,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -198,7 +198,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/plugin/pi-popup/">Pi Popup</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.magicpi.top/">Pi Popup</a></p> -->
 </div>
 EOD
 			)

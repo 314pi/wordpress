@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Pi Popup
- * Plugin URI:        https://www.magicpi.top/plugin/pi-popup/
+ * Plugin URI:        https://www.magicpi.top/
  * Description:       Attractive popup forms on exit intent to convert visitors into subscribers.
  * Version:           1.1.1
  * Author:            MagicPi

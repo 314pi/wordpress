@@ -261,7 +261,7 @@ msgid "You do not have sufficient permissions to access this page."
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "https://www.magicpi.top/plugin/pi-popup/"
+msgid "https://www.magicpi.top/"
 msgstr ""
 
 #. Description of the plugin/theme
