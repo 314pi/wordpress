@@ -9,8 +9,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/includes
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/includes
  */
 
 /**
@@ -23,11 +23,11 @@
  * version of the plugin.
  *
  * @since      1.0.0
- * @package    Magic_Pi
- * @subpackage Magic_Pi/includes
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/includes
  * @author     Quema Labs
  */
-class Magic_Pi {
+class Pi_Popup {
 
 	/**
 	 * The loader that's responsible for maintaining and registering all hooks that power
@@ -35,7 +35,7 @@ class Magic_Pi {
 	 *
 	 * @since    1.0.0
 	 * @access   protected
-	 * @var      Magic_Pi_Loader    $loader    Maintains and registers all hooks for the plugin.
+	 * @var      Pi_Popup_Loader    $loader    Maintains and registers all hooks for the plugin.
 	 */
 	protected $loader;
 
@@ -109,7 +109,7 @@ class Magic_Pi {
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Magic Pi</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -138,7 +138,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Magic Pi</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -168,7 +168,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Magic Pi</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			),
@@ -198,7 +198,7 @@ EOD
         </div>
         
     </div>
-    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Magic Pi</a></p> -->
+    <!-- <p class="pi_popup_footer">by <a href="https://www.quemalabs.com/plugin/pi-popup/">Pi Popup</a></p> -->
 </div>
 EOD
 			)
@@ -218,10 +218,10 @@ EOD
 	 *
 	 * Include the following files that make up the plugin:
 	 *
-	 * - Magic_Pi_Loader. Orchestrates the hooks of the plugin.
-	 * - Magic_Pi_i18n. Defines internationalization functionality.
-	 * - Magic_Pi_Admin. Defines all hooks for the admin area.
-	 * - Magic_Pi_Public. Defines all hooks for the public side of the site.
+	 * - Pi_Popup_Loader. Orchestrates the hooks of the plugin.
+	 * - Pi_Popup_i18n. Defines internationalization functionality.
+	 * - Pi_Popup_Admin. Defines all hooks for the admin area.
+	 * - Pi_Popup_Public. Defines all hooks for the public side of the site.
 	 *
 	 * Create an instance of the loader which will be used to register the hooks
 	 * with WordPress.
@@ -259,14 +259,14 @@ EOD
 		 */
 		require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/class-pi-popup-mailchimp.php';
 
-		$this->loader = new Magic_Pi_Loader();
+		$this->loader = new Pi_Popup_Loader();
 
 	}
 
 	/**
 	 * Define the locale for this plugin for internationalization.
 	 *
-	 * Uses the Magic_Pi_i18n class in order to set the domain and to register the hook
+	 * Uses the Pi_Popup_i18n class in order to set the domain and to register the hook
 	 * with WordPress.
 	 *
 	 * @since    1.0.0
@@ -274,7 +274,7 @@ EOD
 	 */
 	private function set_locale() {
 
-		$plugin_i18n = new Magic_Pi_i18n();
+		$plugin_i18n = new Pi_Popup_i18n();
 
 		$this->loader->add_action( 'plugins_loaded', $plugin_i18n, 'load_plugin_textdomain' );
 
@@ -289,7 +289,7 @@ EOD
 	 */
 	private function define_admin_hooks() {
 
-		$plugin_admin = new Magic_Pi_Admin( $this->get_pi_popup(), $this->get_version() );
+		$plugin_admin = new Pi_Popup_Admin( $this->get_pi_popup(), $this->get_version() );
 
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
@@ -314,7 +314,7 @@ EOD
 	 */
 	private function define_public_hooks() {
 
-		$plugin_public = new Magic_Pi_Public( $this->get_pi_popup(), $this->get_version() );
+		$plugin_public = new Pi_Popup_Public( $this->get_pi_popup(), $this->get_version() );
 
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_styles' );
 		$this->loader->add_action( 'wp_enqueue_scripts', $plugin_public, 'enqueue_scripts' );
@@ -348,7 +348,7 @@ EOD
 	 * The reference to the class that orchestrates the hooks with the plugin.
 	 *
 	 * @since     1.0.0
-	 * @return    Magic_Pi_Loader    Orchestrates the hooks of the plugin.
+	 * @return    Pi_Popup_Loader    Orchestrates the hooks of the plugin.
 	 */
 	public function get_loader() {
 		return $this->loader;
@@ -371,7 +371,7 @@ EOD
 	 * @return    string    The version number of the plugin.
 	 */
 	public function get_nice_name() {
-		return esc_html__( 'Magic Pi', 'pi-popup' );
+		return esc_html__( 'Pi Popup', 'pi-popup' );
 	}
 
 	/**

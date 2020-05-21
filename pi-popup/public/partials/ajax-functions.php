@@ -25,10 +25,10 @@ if( 'POST' == $_SERVER['REQUEST_METHOD'] && ! empty( $_POST['action'] )) {
 			//Mail Chimp
 			if ( ! empty( $this->mailchimp_options['pi_popup_mailchimp_list'] ) && '0' != $this->mailchimp_options['pi_popup_mailchimp_list'] ) {
 
-				$Magic_Pi_MailChimp = new Magic_Pi_MailChimp( $this->mailchimp_options['pi_popup_mailchimp_api_key'] );
+				$Pi_Popup_MailChimp = new Pi_Popup_MailChimp( $this->mailchimp_options['pi_popup_mailchimp_api_key'] );
 				$list_id = $this->mailchimp_options['pi_popup_mailchimp_list'];
 
-				$result = $Magic_Pi_MailChimp->post( "lists/$list_id/members", [
+				$result = $Pi_Popup_MailChimp->post( "lists/$list_id/members", [
 								'email_address' => $email,
 								'status'        => 'subscribed',
 							] );

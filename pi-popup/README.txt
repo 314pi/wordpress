@@ -27,7 +27,7 @@ You can easily customize our 4 form templates with your content.
 * Customize the behavior of the popup form
 * Free!
 
-Magic Pi is the easiest way to grow your subscriber list.
+Pi Popup is the easiest way to grow your subscriber list.
 
 
 == Installation ==
@@ -40,11 +40,11 @@ Magic Pi is the easiest way to grow your subscriber list.
 
 = How can I configure the site? =
 
-Go to your **Admin Panel > Tools > Magic Pi**, and you will see all the settings.
+Go to your **Admin Panel > Tools > Pi Popup**, and you will see all the settings.
 
 = How do I export all the subscribers emails? =
 
-Go to your **Admin Panel > Tools > Magic Pi > Export Subscribers**, and click on Export CSV to download a file with all the emails.
+Go to your **Admin Panel > Tools > Pi Popup > Export Subscribers**, and click on Export CSV to download a file with all the emails.
 
 
 

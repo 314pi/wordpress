@@ -8,8 +8,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/admin/partials
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/admin/partials
  */
 ?>
 
@@ -20,7 +20,7 @@ if ( ! current_user_can( 'manage_options' ) )  {
 }
 ?>
 <div class="wrap pi_popup_admin">  
-    <h2><?php esc_html_e( 'Magic Pi Settings', 'pi-popup' ); ?></h2>  
+    <h2><?php esc_html_e( 'Pi Popup Settings', 'pi-popup' ); ?></h2>  
     <?php settings_errors(); ?>  
 
     <?php  

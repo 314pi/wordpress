@@ -9,8 +9,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/includes
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/includes
  */
 
 /**
@@ -20,11 +20,11 @@
  * so that it is ready for translation.
  *
  * @since      1.0.0
- * @package    Magic_Pi
- * @subpackage Magic_Pi/includes
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/includes
  * @author     Quema Labs
  */
-class Magic_Pi_i18n {
+class Pi_Popup_i18n {
 
 
 	/**

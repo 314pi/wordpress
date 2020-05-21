@@ -6,8 +6,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/includes
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/includes
  */
 
 /**
@@ -17,11 +17,11 @@
  * the plugin, and register them with the WordPress API. Call the
  * run function to execute the list of actions and filters.
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/includes
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/includes
  * @author     Quema Labs
  */
-class Magic_Pi_Loader {
+class Pi_Popup_Loader {
 
 	/**
 	 * The array of actions registered with WordPress.

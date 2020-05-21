@@ -22,7 +22,7 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
+ * @package    Pi_Popup
  */
 
 // If uninstall not called from WordPress, then exit.

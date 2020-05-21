@@ -6,10 +6,10 @@
  *
  * @link              https://www.quemalabs.com/
  * @since             1.0.0
- * @package           Magic_Pi
+ * @package           Pi_Popup
  *
  * @wordpress-plugin
- * Plugin Name:       Magic Pi
+ * Plugin Name:       Pi Popup
  * Plugin URI:        https://www.quemalabs.com/plugin/pi-popup/
  * Description:       Attractive popup forms on exit intent to convert visitors into subscribers.
  * Version:           1.1.1
@@ -32,7 +32,7 @@ if ( ! defined( 'WPINC' ) ) {
  */
 function activate_pi_popup() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-pi-popup-activator.php';
-	Magic_Pi_Activator::activate();
+	Pi_Popup_Activator::activate();
 }
 
 /**
@@ -41,7 +41,7 @@ function activate_pi_popup() {
  */
 function deactivate_pi_popup() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-pi-popup-deactivator.php';
-	Magic_Pi_Deactivator::deactivate();
+	Pi_Popup_Deactivator::deactivate();
 }
 
 register_activation_hook( __FILE__, 'activate_pi_popup' );
@@ -67,7 +67,7 @@ function run_pi_popup() {
 	static $pi_popup = null;
 
 	if ( is_null( $pi_popup ) ) {
-		$pi_popup = new Magic_Pi();
+		$pi_popup = new Pi_Popup();
 		$pi_popup->run();
 	}
     return $pi_popup;

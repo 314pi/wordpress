@@ -6,8 +6,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/admin
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/admin
  */
 
 /**
@@ -16,11 +16,11 @@
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the admin-specific stylesheet and JavaScript.
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/admin
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/admin
  * @author     Quema Labs
  */
-class Magic_Pi_Admin {
+class Pi_Popup_Admin {
 
 	/**
 	 * The ID of this plugin.
@@ -138,8 +138,8 @@ class Magic_Pi_Admin {
 
 		add_submenu_page( 
 			'tools.php', // $parent_slug
-			esc_attr__( 'Magic Pi Settings', 'pi-popup' ), // $page_title
-			esc_attr__( 'Magic Pi', 'pi-popup' ), // $menu_title
+			esc_attr__( 'Pi Popup Settings', 'pi-popup' ), // $page_title
+			esc_attr__( 'Pi Popup', 'pi-popup' ), // $menu_title
 			'manage_options', // $capability, 
 			'pi-popup-admin', // $menu_slug, 
 			array( &$this, 'admin_page' )
@@ -260,7 +260,7 @@ class Magic_Pi_Admin {
 		    array( &$this, 'pi_popup_behavior_timer_callback' ),
 		    'pi_popup_behavior_options',                     
 		    'pi_popup_behavior_settings',
-		    array( 'description' => esc_attr__( "By default, Magic Pi won't fire in the first second to prevent false positives, as it's unlikely the user will be able to exit the page within less than a second. If you want to change the amount of time that firing is surpressed for, you can pass in a number of milliseconds.", 'pi-popup' ) )
+		    array( 'description' => esc_attr__( "By default, Pi Popup won't fire in the first second to prevent false positives, as it's unlikely the user will be able to exit the page within less than a second. If you want to change the amount of time that firing is surpressed for, you can pass in a number of milliseconds.", 'pi-popup' ) )
 		);
 
 		add_settings_field(  
@@ -269,7 +269,7 @@ class Magic_Pi_Admin {
 		    array( &$this, 'pi_popup_behavior_sensitivity_callback' ),
 		    'pi_popup_behavior_options',                     
 		    'pi_popup_behavior_settings',
-		    array( 'description' => esc_attr__( "Magic Pi fires when the mouse cursor moves close to (or passes) the top of the viewport. You can define how far the mouse has to be before Magic Pi fires. The higher value, the more sensitive, and the more quickly the event will fire.", 'pi-popup' ) )
+		    array( 'description' => esc_attr__( "Pi Popup fires when the mouse cursor moves close to (or passes) the top of the viewport. You can define how far the mouse has to be before Pi Popup fires. The higher value, the more sensitive, and the more quickly the event will fire.", 'pi-popup' ) )
 		);
 
 		add_settings_field(  
@@ -278,7 +278,7 @@ class Magic_Pi_Admin {
 		    array( &$this, 'pi_popup_behavior_cookie_expiration_callback' ),
 		    'pi_popup_behavior_options',                     
 		    'pi_popup_behavior_settings',
-		    array( 'description' => esc_attr__( "Magic Pi sets a cookie by default to prevent the modal from appearing more than once per user. You can set the cookie expiration (in days) to adjust the time period before the modal will appear again for a user.", 'pi-popup' ) )
+		    array( 'description' => esc_attr__( "Pi Popup sets a cookie by default to prevent the modal from appearing more than once per user. You can set the cookie expiration (in days) to adjust the time period before the modal will appear again for a user.", 'pi-popup' ) )
 		);
 
 		add_settings_field(  
@@ -287,7 +287,7 @@ class Magic_Pi_Admin {
 		    array( &$this, 'pi_popup_behavior_aggressive_mode_callback' ),
 		    'pi_popup_behavior_options',                     
 		    'pi_popup_behavior_settings',
-		    array( 'description' => esc_attr__( "By default, Magic Pi will only fire once for each visitor. When Magic Pi fires, a cookie is created to ensure a non obtrusive experience. If you enable aggressive mode, the popup will fire any time the page is reloaded, for the same user. This can be useful when testing a popup.", 'pi-popup' ) )
+		    array( 'description' => esc_attr__( "By default, Pi Popup will only fire once for each visitor. When Pi Popup fires, a cookie is created to ensure a non obtrusive experience. If you enable aggressive mode, the popup will fire any time the page is reloaded, for the same user. This can be useful when testing a popup.", 'pi-popup' ) )
 		);
 
 		do_action( 'pi_popup_add_behavior_settings' );
@@ -814,9 +814,9 @@ class Magic_Pi_Admin {
 
 
 		if ( ! empty( $this->mailchimp_options['pi_popup_mailchimp_api_key'] ) ) {
-			$Magic_Pi_MailChimp = new Magic_Pi_MailChimp( $this->mailchimp_options['pi_popup_mailchimp_api_key'] );
+			$Pi_Popup_MailChimp = new Pi_Popup_MailChimp( $this->mailchimp_options['pi_popup_mailchimp_api_key'] );
 			//Get lists from MailChimp
-			$result = $Magic_Pi_MailChimp->get('lists');
+			$result = $Pi_Popup_MailChimp->get('lists');
 
 			// Prepare default value
 			$list_to_show = array( '0' => esc_attr__( 'Select list...', 'pi-popup' ) );

@@ -6,8 +6,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/public
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/public
  */
 
 /**
@@ -16,11 +16,11 @@
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the admin-specific stylesheet and JavaScript.
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/public
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/public
  * @author     Quema Labs
  */
-class Magic_Pi_Public {
+class Pi_Popup_Public {
 
 	/**
 	 * The ID of this plugin.

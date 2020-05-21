@@ -8,8 +8,8 @@
  * @link       https://www.quemalabs.com
  * @since      1.0.0
  *
- * @package    Magic_Pi
- * @subpackage Magic_Pi/public/partials
+ * @package    Pi_Popup
+ * @subpackage Pi_Popup/public/partials
  */
 ?>
 <div class="pi_popup_wrap">
