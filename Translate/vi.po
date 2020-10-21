@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.4.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-10-18 14:55+0700\n"
+"PO-Revision-Date: 2020-10-21 11:32+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -287,7 +287,7 @@ msgstr ""
 "// để mô tả các đơn vị đánh dấu\\n\n"
 "// khi được kết hợp với nhau, tạo thành\\n\n"
 "// nội dung hoặc bố cục của một trang.\\n\n"
-"registerBlockType( name, settings );\\n"
+"registerBlockType( name, settings );"
 
 #: wp-includes/js/dist/block-library.js:9988
 msgid "Prompt visitors to take action with a group of button-style links."
@@ -5514,7 +5514,7 @@ msgstr "Xóa dữ liệu cá nhân"
 
 #: wp-includes/comment-template.php:2361
 msgid "Save my name, email, and website in this browser for the next time I comment."
-msgstr "Lưu tên của tôi, email, và trang web trong trình duyệt này cho lần bình luận kế tiếp của tôi."
+msgstr "Lưu để dùng cho lần sau"
 
 #: wp-includes/user.php:2979
 msgid "User Description"
@@ -7281,7 +7281,7 @@ msgstr "Mật khẩu cho bài viết nơi comment này được đăng (nếu b�
 #: wp-includes/post.php:1714
 msgctxt "page"
 msgid "Use as featured image"
-msgstr "\tSử dụng làm ảnh đại diện"
+msgstr "Sử dụng làm ảnh đại diện"
 
 #: wp-includes/post.php:1714
 msgctxt "post"
@@ -7720,7 +7720,7 @@ msgstr "Lưu trữ"
 #: wp-includes/theme.php:2233
 msgctxt "Theme starter content"
 msgid "This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts."
-msgstr "Đây là trang chủ mẫu. Trang chủ có thể chứa bất kỳ cái gì, bao gồm các bài blog gần nhất"
+msgstr "Đây là trang chủ mẫu. Trang chủ có thể chứa bất kỳ cái gì, bao gồm các bài blog gần nhất."
 
 #: wp-includes/theme.php:2225
 msgctxt "Theme starter content"
@@ -7730,7 +7730,7 @@ msgstr "Tin tức"
 #: wp-includes/theme.php:2216
 msgctxt "Theme starter content"
 msgid "This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form."
-msgstr "Trang này có các thông tin liên lạc, ví dụ như địa chỉ và điện thoại. Bạn có thể thử cài ứng dụng để thêm phần liên lạc"
+msgstr "Trang này có các thông tin liên lạc, ví dụ như địa chỉ và điện thoại. Bạn có thể thử cài ứng dụng để thêm phần liên lạc."
 
 #: wp-includes/theme.php:2208
 msgctxt "Theme starter content"
@@ -8132,7 +8132,7 @@ msgstr "Giới hạn kết quả thiết lập cho bài viết với một hoặ
 
 #: wp-includes/class-wp-xmlrpc-server.php:3879
 msgid "Comment is required."
-msgstr "Bình luận là bắt buộc"
+msgstr "Bình luận là bắt buộc."
 
 #: wp-includes/class-wp-customize-nav-menus.php:886
 msgid "Empty title."
@@ -9460,7 +9460,7 @@ msgstr "Kích hoạt %s"
 #: wp-includes/script-loader.php:1513
 msgctxt "theme"
 msgid "Network Activate %s"
-msgstr "Mạng lưới kích hoạt %s "
+msgstr "Mạng lưới kích hoạt %s"
 
 #. translators: %s: Plugin name.
 #: wp-includes/script-loader.php:1511
@@ -11414,7 +11414,7 @@ msgstr "Bỏ qua thông báo này "
 #: wp-includes/theme-compat/comments.php:44
 msgid "%1$s response to %2$s"
 msgid_plural "%1$s responses to %2$s"
-msgstr[0] " %1$s bình luận cho %2$s"
+msgstr[0] " %1$s bình luận cho %2$s "
 
 #: wp-includes/script-loader.php:1171
 msgid "Site Preview"
@@ -14987,7 +14987,7 @@ msgstr "F, Y"
 #. translators: Used to join items in a list with only 2 items.
 #: wp-includes/formatting.php:5072
 msgid "%1$s and %2$s"
-msgstr "%1$s và %2$s."
+msgstr "%1$s và %2$s"
 
 #: wp-includes/taxonomy.php:565
 msgid "Choose from the most used tags"
@@ -15124,7 +15124,7 @@ msgstr "<strong>Lỗi</strong>: Tên người dùng này không được chấp 
 #: wp-admin/includes/media.php:2011 wp-admin/includes/media.php:2906
 #: wp-admin/network/site-new.php:222
 msgid "Required fields are marked %s"
-msgstr "Các trường bắt buộc được đánh dấu %s"
+msgstr "Các mục  %s là bắt buộc."
 
 #. translators: %s: Template name.
 #: wp-includes/theme-compat/sidebar.php:11
@@ -15283,7 +15283,7 @@ msgstr "Gặp lỗi khi thêm trang web. Quay lại <a href=\"%s\">trang chủ</
 
 #: wp-includes/comment-template.php:2422
 msgid "Your email address will not be published."
-msgstr "Email của bạn sẽ không được hiển thị công khai."
+msgstr "Email sẽ được ẩn."
 
 #: wp-includes/class-wp-xmlrpc-server.php:6786 wp-includes/class-http.php:275
 #: wp-includes/class-http.php:503

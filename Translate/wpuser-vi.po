@@ -32,20 +32,20 @@ msgstr "Bạn có "
 
 #: wp-user/admin/view/view-header.php:6
 msgid "Wp User"
-msgstr ""
+msgstr "Người dùng"
 
 #: wp-user/admin/view/view-header.php:99
 msgid " Wp User"
-msgstr ""
+msgstr " Người dùng"
 
 #: wp-user/admin/view/view-addon.php:104
 #: wp-user/admin/view/view-user-list.php:8
 msgid "WP User"
-msgstr ""
+msgstr "Người dùng"
 
 #: wp-user/admin/view/view-addon.php:105 wp-user/admin/view/view-addon.php:109
 msgid "Add-ons"
-msgstr ""
+msgstr "Add-ons"
 
 #: wp-user/admin/view/view-addon.php:108
 #: wp-user/admin/view/view-user-list.php:12
@@ -54,15 +54,15 @@ msgstr "Trang chủ"
 
 #: wp-user/admin/view/view-addon.php:120
 msgid "Pro Add-ons"
-msgstr ""
+msgstr "Add-ón chuyên nghiệp"
 
 #: wp-user/admin/view/view-addon.php:123
 msgid "Features"
-msgstr ""
+msgstr "Tính năng"
 
 #: wp-user/admin/view/view-addon.php:132
 msgid "WP User Add-ons"
-msgstr ""
+msgstr "Người dùng"
 
 #: wp-user/admin/view/view-addon.php:135
 msgid "Get all add-ons access and Premium Support with"
@@ -70,79 +70,79 @@ msgstr ""
 
 #: wp-user/admin/view/view-addon.php:137
 msgid "Personal/Business/Developer"
-msgstr ""
+msgstr "Cá nhân/Kinh doanh/Phát triển"
 
 #: wp-user/admin/view/view-addon.php:138
 msgid "Pack (All Pro Features)"
-msgstr ""
+msgstr "Gói (Chuyên nghiệp)"
 
 #: wp-user/admin/view/view-addon.php:168
 msgid "Deactivate"
-msgstr ""
+msgstr "Ngừng kích hoạt"
 
 #: wp-user/admin/view/view-addon.php:173
 msgid "Activate"
-msgstr ""
+msgstr "Kích hoạt"
 
 #: wp-user/admin/view/view-addon.php:178 wp-user/admin/view/view-addon.php:204
 #: wp-user/admin/view/view-footer.php:15
 msgid "Buy Now"
-msgstr ""
+msgstr "Mua ngay"
 
 #: wp-user/admin/view/view-addon.php:196 wp-user/admin/view/view-footer.php:7
 msgid "Documentation"
-msgstr ""
+msgstr "Tài liệu"
 
 #: wp-user/admin/view/view-addon.php:200 wp-user/admin/view/view-addon.php:221
 #: wp-user/admin/view/view-addon.php:231 wp-user/admin/view/view-addon.php:506
 #: wp-user/admin/view/view-addon.php:519 wp-user/admin/view/view-footer.php:11
 msgid "Support"
-msgstr ""
+msgstr "Hỗ trợ"
 
 #: wp-user/admin/view/view-addon.php:221 wp-user/admin/view/view-addon.php:506
 msgid "Paid Customization"
-msgstr ""
+msgstr "Chỉnh sửa thanh toán"
 
 #: wp-user/admin/view/view-addon.php:242
 msgid "Free"
-msgstr ""
+msgstr "Miễn phí"
 
 #: wp-user/admin/view/view-addon.php:412
 msgid "Pro"
-msgstr ""
+msgstr "Chuyên nghiệp"
 
 #: wp-user/admin/view/view-user-list.php:13
 #: wp-user/admin/view/view-user-list.php:29
 msgid "Users"
-msgstr ""
+msgstr "Người dùng"
 
 #: wp-user/admin/view/view-user-list.php:31
 msgid "Login Log"
-msgstr ""
+msgstr "Nhật ký đăng nhập"
 
 #: wp-user/admin/view/view-user-list.php:87 wp-user/user/shortcode.php:462
 msgid "Error"
-msgstr ""
+msgstr "Lỗi"
 
 #: wp-user/admin/view/view-user-list.php:91
 #: wp-user/admin/view/view-user-list.php:470
 msgid "Approved"
-msgstr ""
+msgstr "Đã chứng nhận"
 
 #: wp-user/admin/view/view-user-list.php:92
 #: wp-user/admin/view/view-user-list.php:210
 msgid "Deny"
-msgstr ""
+msgstr "Cấm"
 
 #: wp-user/admin/view/view-user-list.php:96
 #: wp-user/admin/view/view-user-list.php:466
 msgid "Denied"
-msgstr ""
+msgstr "Đã cấm"
 
 #: wp-user/admin/view/view-user-list.php:97
 #: wp-user/admin/view/view-user-list.php:208
 msgid "Approve"
-msgstr ""
+msgstr "Chứng nhận"
 
 #: wp-user/admin/view/view-user-list.php:129
 #: wp-user/admin/view/view-user-list.php:510
@@ -158,88 +158,88 @@ msgstr ""
 #: wp-user/admin/view/view-user-list.php:147
 #: wp-user/admin/view/view-user-list.php:529 wp-user/user/shortcode.php:556
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #: wp-user/admin/view/view-user-list.php:175
 msgid "Filter by Type"
-msgstr ""
+msgstr "Lọc theo loại"
 
 #: wp-user/admin/view/view-user-list.php:185
 msgid "All"
-msgstr ""
+msgstr "Tất cả"
 
 #: wp-user/admin/view/view-user-list.php:206
 msgid "Bulk Actions"
-msgstr ""
+msgstr "Làm hàng loạt"
 
 #: wp-user/admin/view/view-user-list.php:212
 msgid "Export CSV"
-msgstr ""
+msgstr "Xuất CSV"
 
 #: wp-user/admin/view/view-user-list.php:219
 msgid "Apply"
-msgstr ""
+msgstr "Áp dụng"
 
 #: wp-user/admin/view/view-user-list.php:241
 #: wp-user/admin/view/view-user-list.php:561
 msgid "Sort by"
-msgstr ""
+msgstr "Sắp xếp"
 
 #: wp-user/admin/view/view-user-list.php:253
 msgid "Username A-Z"
-msgstr ""
+msgstr "Tên A-Z"
 
 #: wp-user/admin/view/view-user-list.php:261
 msgid "Username Z-A"
-msgstr ""
+msgstr "Tên Z-A"
 
 #: wp-user/admin/view/view-user-list.php:272
 msgid "Name A-Z"
-msgstr ""
+msgstr "Tên A-Z"
 
 #: wp-user/admin/view/view-user-list.php:280
 msgid "Name Z-A"
-msgstr ""
+msgstr "Tên Z-A"
 
 #: wp-user/admin/view/view-user-list.php:291
 msgid "Role Asc"
-msgstr ""
+msgstr "Vai trò - tăng dần"
 
 #: wp-user/admin/view/view-user-list.php:299
 msgid "Role Desc"
-msgstr ""
+msgstr "Vai trò - Giảm dần"
 
 #: wp-user/admin/view/view-user-list.php:310
 msgid "Status Asc"
-msgstr ""
+msgstr "Trang thái - Tăng"
 
 #: wp-user/admin/view/view-user-list.php:319
 msgid "Status Desc"
-msgstr ""
+msgstr "Trạng thái - Giảm"
 
 #: wp-user/admin/view/view-user-list.php:348
 #: wp-user/admin/view/view-user-list.php:648
 msgid "Items per Page"
-msgstr ""
+msgstr "Mục trên trang"
 
 #: wp-user/admin/view/view-user-list.php:360
 #: wp-user/admin/view/view-user-list.php:660
 msgid "10 per page"
-msgstr ""
+msgstr "10/trang"
 
 #: wp-user/admin/view/view-user-list.php:368
 #: wp-user/admin/view/view-user-list.php:668 wp-user/user/shortcode.php:711
 msgid "20 per page"
-msgstr ""
+msgstr "20/trang"
 
 #: wp-user/admin/view/view-user-list.php:376
 #: wp-user/admin/view/view-user-list.php:676 wp-user/user/shortcode.php:719
 msgid "50 per page"
-msgstr ""
+msgstr "50/trang"
 
 #: wp-user/admin/view/view-user-list.php:387 wp-user/user/shortcode.php:730
 msgid "ViewAll"
-msgstr ""
+msgstr "Tất cả"
 
 #: wp-user/admin/view/view-user-list.php:421
 #: wp-user/user/class-user-my-profile.php:106
@@ -259,15 +259,15 @@ msgstr "Email"
 
 #: wp-user/admin/view/view-user-list.php:431
 msgid "Role"
-msgstr ""
+msgstr "Vai trò"
 
 #: wp-user/admin/view/view-user-list.php:434
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
 #: wp-user/admin/view/view-user-list.php:474
 msgid "Pending"
-msgstr ""
+msgstr "Xếp hàng"
 
 #: wp-user/admin/view/view-user-list.php:494
 msgid ""
@@ -277,59 +277,59 @@ msgstr ""
 
 #: wp-user/admin/view/view-user-list.php:573
 msgid "Time Asc"
-msgstr ""
+msgstr "Thowifg ian - Tăng"
 
 #: wp-user/admin/view/view-user-list.php:582
 msgid "Time Desc"
-msgstr ""
+msgstr "Thời gian - Giảm"
 
 #: wp-user/admin/view/view-user-list.php:594
 msgid "User ID A-Z"
-msgstr ""
+msgstr "ID người dùng A-Z"
 
 #: wp-user/admin/view/view-user-list.php:602
 msgid "User ID Z-A"
-msgstr ""
+msgstr "ID người dùng Z-A"
 
 #: wp-user/admin/view/view-user-list.php:613
 msgid "User A-Z"
-msgstr ""
+msgstr "Người dùng - A-Z"
 
 #: wp-user/admin/view/view-user-list.php:620
 msgid "User Z-A"
-msgstr ""
+msgstr "Người dùng Z-A"
 
 #: wp-user/admin/view/view-user-list.php:687
 msgid "View All"
-msgstr ""
+msgstr "Tất cả"
 
 #: wp-user/admin/view/view-user-list.php:722
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: wp-user/admin/view/view-user-list.php:725
 msgid "User"
-msgstr ""
+msgstr "Người dùng"
 
 #: wp-user/admin/view/view-user-list.php:731
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 #: wp-user/admin/view/view-user-list.php:734
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: wp-user/admin/view/view-user-list.php:737
 msgid "Time"
-msgstr ""
+msgstr "Thời gian"
 
 #: wp-user/admin/view/view-user-list.php:774
 msgid "No Login Logs Found"
-msgstr ""
+msgstr "Không tìm thấy nhật ký đăng nhập"
 
 #: wp-user/admin/view/view-footer.php:15
 msgid "Pro Version"
-msgstr ""
+msgstr "Phiên bản chuyên nghiệp"
 
 #: wp-user/admin/view/view-footer.php:24
 msgid "If you like WP User please leave us"
@@ -341,62 +341,62 @@ msgstr ""
 
 #: wp-user/admin/view/view-setting.php:23
 msgid "General"
-msgstr ""
+msgstr "Tổng quan"
 
 #: wp-user/admin/view/view-setting.php:25
 msgid "Page Setup"
-msgstr ""
+msgstr "Cái đặt trang"
 
 #: wp-user/admin/view/view-setting.php:27
 msgid "Security"
-msgstr ""
+msgstr "Bảo mật"
 
 #: wp-user/admin/view/view-setting.php:29
 msgid "Email Notifications"
-msgstr ""
+msgstr "Email thông báo"
 
 #: wp-user/admin/view/view-setting.php:38
 msgid "Help"
-msgstr ""
+msgstr "Trợ giúp"
 
 #: wp-user/admin/view/view-setting.php:40
 msgid "Subscribe"
-msgstr ""
+msgstr "Đăng ký"
 
 #: wp-user/admin/view/view-setting.php:84
 #: wp-user/admin/view/view-setting.php:237
 #: wp-user/admin/view/view-setting.php:291
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 #: wp-user/admin/view/view-setting.php:92
 msgid "Page"
-msgstr ""
+msgstr "Trang"
 
 #: wp-user/admin/view/view-setting.php:107
 msgid "WP User Page"
-msgstr ""
+msgstr "Trang người dùng"
 
 #: wp-user/admin/view/view-setting.php:121
 #: wp-user/admin/view/view-setting.php:139
 msgid "View Page"
-msgstr ""
+msgstr "Xem trang"
 
 #: wp-user/admin/view/view-setting.php:133
 msgid "WP User Members Page"
-msgstr ""
+msgstr "Trang thành viên"
 
 #: wp-user/admin/view/view-setting.php:156
 msgid "Page Title"
-msgstr ""
+msgstr "Tiêu đề trang"
 
 #: wp-user/admin/view/view-setting.php:166
 msgid "Member Page Title"
-msgstr ""
+msgstr "Tiêu đề trang thành viên"
 
 #: wp-user/admin/view/view-setting.php:175
 msgid "Rebuild Pages"
-msgstr ""
+msgstr "Tạo lại trang"
 
 #: wp-user/admin/view/view-setting.php:177
 msgid ""
@@ -410,7 +410,7 @@ msgstr ""
 
 #: wp-user/admin/view/view-setting.php:312
 msgid "Shortcode"
-msgstr ""
+msgstr "Shortcode"
 
 #: wp-user/admin/view/view-setting.php:320
 msgid ""
@@ -422,10 +422,17 @@ msgid ""
 "                                    <b>[wp_user id='1234' width='360px' "
 "popup='1' active='register' role='subscriber' login_redirect='"
 msgstr ""
+"\n"
+"                                    <b> [wp_user] </b> shortcode for display "
+"login, registration, forgot password form.<br>\n"
+"                                    You Can use following attributes for "
+"custom form<br>\n"
+"                                    <b>[wp_user id='1234' width='360px' "
+"popup='1' active='register' role='subscriber' login_redirect='"
 
 #: wp-user/admin/view/view-setting.php:395
 msgid "Disable Signup Form"
-msgstr ""
+msgstr "Tắt Form đăng nhập"
 
 #: wp-user/admin/view/view-setting.php:403
 msgid ""
@@ -443,27 +450,27 @@ msgstr "Thoát"
 
 #: wp-user/user/widget.php:104
 msgid "Logged-out title"
-msgstr ""
+msgstr "Tiêu đề thoát"
 
 #: wp-user/user/widget.php:112
 msgid "Logged-in title"
-msgstr ""
+msgstr "Tiêu đề đăng nhập"
 
 #: wp-user/user/widget.php:123
 msgid "Show Register tab"
-msgstr ""
+msgstr "Hiện tab đăng ký"
 
 #: wp-user/user/widget.php:131
 msgid "Show forgot password tab"
-msgstr ""
+msgstr "Hiện tab quên mật khẩu"
 
 #: wp-user/user/widget.php:139
 msgid "Show field icons"
-msgstr ""
+msgstr "Hiện biểu tượng"
 
 #: wp-user/user/widget.php:147
 msgid "Show logged-in user avatar"
-msgstr ""
+msgstr "Hiện ảnh đại diện"
 
 #: wp-user/user/shortcode.php:112 wp-user/user/view/register.php:5
 #: wp-user/user/view/register.php:76 wp-user/user/view/login.php:42
@@ -480,19 +487,19 @@ msgstr "Đăng nhập"
 
 #: wp-user/user/shortcode.php:246
 msgid "Send Message to"
-msgstr ""
+msgstr "Gửi thông báo tới"
 
 #: wp-user/user/shortcode.php:260
 msgid "From"
-msgstr ""
+msgstr "Từ"
 
 #: wp-user/user/shortcode.php:265 wp-user/user/shortcode.php:267
 msgid "Subject"
-msgstr ""
+msgstr "Chủ đề"
 
 #: wp-user/user/shortcode.php:270 wp-user/user/shortcode.php:272
 msgid "Message"
-msgstr ""
+msgstr "Lời nhắn"
 
 #: wp-user/user/shortcode.php:290
 msgid "Close"
@@ -504,15 +511,15 @@ msgstr "Gửi"
 
 #: wp-user/user/shortcode.php:306
 msgid "Member List"
-msgstr ""
+msgstr "Danh sách thành viên"
 
 #: wp-user/user/shortcode.php:331
 msgid "Send Mail"
-msgstr ""
+msgstr "Gửi thư"
 
 #: wp-user/user/shortcode.php:703
 msgid " per page"
-msgstr ""
+msgstr " trên trang"
 
 #: wp-user/user/class-user-action.php:446
 #: wp-user/user/class-user-action.php:542
@@ -521,43 +528,43 @@ msgstr "Sau mật khẩu"
 
 #: wp-user/user/class-user-action.php:930
 msgid "Your account has been aprroved. "
-msgstr ""
+msgstr "Tài khoản của bận đã được xác nhận "
 
 #: wp-user/user/class-user-action.php:932
 msgid "Click here to login."
-msgstr ""
+msgstr "Click để đăng nhập."
 
 #: wp-user/user/filter.php:275
 msgid "You have <span class=\"notification_count\">"
-msgstr ""
+msgstr "Bạn có <span class=\"notification_count\">"
 
 #: wp-user/user/filter.php:348
 msgid "Profile"
-msgstr ""
+msgstr "Hồ sơ"
 
 #: wp-user/user/class-user-my-profile.php:113
 msgid "Display name"
-msgstr ""
+msgstr "Tên hiển thị"
 
 #: wp-user/user/view/profile.php:134
 msgid "Profile Information"
-msgstr ""
+msgstr "Thông tin hồ sơ"
 
 #: wp-user/user/view/profile.php:190
 msgid "Notifications"
-msgstr ""
+msgstr "Thông báo"
 
 #: wp-user/user/view/profile.php:192
 msgid "Clear All"
-msgstr ""
+msgstr "Xóa hết"
 
 #: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
 msgid "I agree to the"
-msgstr ""
+msgstr "Tôi đồng ý với"
 
 #: wp-user/user/view/register.php:49 wp-user/user/view/widgetView.php:125
 msgid "terms"
-msgstr ""
+msgstr "cụm"
 
 #: wp-user/user/view/login.php:7 wp-user/user/view/widgetView.php:37
 #: wp-user/user/view/forgot.php:4

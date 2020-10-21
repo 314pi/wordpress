@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2020-07-06T11:38:21+00:00\n"
-"PO-Revision-Date: 2020-10-18 14:55+0700\n"
+"PO-Revision-Date: 2020-10-21 11:22+0700\n"
 "X-Generator: Poedit 2.4.1\n"
 "X-Domain: flatsome\n"
 "Last-Translator: \n"
@@ -18,11 +18,11 @@ msgstr ""
 
 #. Theme Name of the theme
 msgid "Flatsome"
-msgstr ""
+msgstr "Flatsome"
 
 #. Theme URI of the theme
 msgid "http://flatsome.uxthemes.com/"
-msgstr ""
+msgstr "https://phuongthai.com"
 
 #. Description of the theme
 msgid "Multi-Purpose Responsive WooCommerce Theme"
@@ -34,11 +34,11 @@ msgstr ""
 
 #. Author URI of the theme
 msgid "http://www.uxthemes.com/"
-msgstr ""
+msgstr "https://phuongthai.com/"
 
 #: 404.php:24
 msgid "Oops! That page can&rsquo;t be found."
-msgstr ""
+msgstr "Oops! Không tìm thấy trang."
 
 #: 404.php:27
 msgid ""
@@ -50,7 +50,7 @@ msgstr ""
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] ""
+msgstr[0] "Bình luận &ldquo;%2$s&rdquo;"
 
 #: comments.php:48
 msgid "Comment navigation"
@@ -58,15 +58,15 @@ msgstr ""
 
 #: comments.php:50
 msgid "Older Comments"
-msgstr ""
+msgstr "Bình luận cũ"
 
 #: comments.php:51
 msgid "Newer Comments"
-msgstr ""
+msgstr "Bình luận mới"
 
 #: comments.php:62
 msgid "Comments are closed."
-msgstr ""
+msgstr "Bình luận bị đóng."
 
 #: header.php:18
 msgid "Skip to content"
@@ -79,11 +79,15 @@ msgid ""
 "image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
 "rel=\"gallery\">%8$s</a>"
 msgstr ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
 
 #: image.php:38 image.php:108 inc/structure/structure-posts.php:168
 #: inc/structure/structure-posts.php:197
 msgid "Edit"
-msgstr ""
+msgstr "Sửa"
 
 #: image.php:100
 msgid ""
@@ -111,15 +115,15 @@ msgstr ""
 
 #: image.php:113
 msgid "<span class=\"meta-nav\">&larr;</span> Previous"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> Trước"
 
 #: image.php:114
 msgid "Next <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Sau <span class=\"meta-nav\">&rarr;</span>"
 
 #: inc/admin/gutenberg/class-gutenberg.php:104
 msgid "Edit with UX Builder"
-msgstr ""
+msgstr "Sửa với UX"
 
 #: inc/admin/options/gdpr/options-cookies.php:98
 #: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:39
@@ -130,7 +134,7 @@ msgstr ""
 
 #: inc/admin/options/header/options-header-mobile.php:85
 msgid "Menu item behavior"
-msgstr ""
+msgstr "Chi tiết menu"
 
 #: inc/admin/options/header/options-header-mobile.php:86
 msgid "Click behavior for menu items with a submenu"
@@ -138,7 +142,7 @@ msgstr ""
 
 #: inc/admin/options/header/options-header-mobile.php:91
 msgid "Open link"
-msgstr ""
+msgstr "Mở link"
 
 #: inc/admin/options/header/options-header-mobile.php:92
 msgid "Toggle submenu"
@@ -162,15 +166,15 @@ msgstr ""
 
 #: inc/admin/options/header/options-header-mobile.php:124
 msgid "1 level"
-msgstr ""
+msgstr "1 mức"
 
 #: inc/admin/options/header/options-header-mobile.php:125
 msgid "2 levels"
-msgstr ""
+msgstr "2 mức"
 
 #: inc/admin/options/portfolio/options-portfolio.php:76
 msgid "Show share icons"
-msgstr ""
+msgstr "Hiển thị biểu tượng chia sẻ"
 
 #: inc/admin/options/shop/options-shop-cart-checkout.php:46
 msgid "Boxed Shipping labels"
@@ -184,125 +188,125 @@ msgstr ""
 #: inc/woocommerce/structure-wc-category-page.php:141
 #: inc/woocommerce/structure-wc-product-page-fields.php:22
 msgid "Custom product layout"
-msgstr ""
+msgstr "Tùy biến giao diện sản phẩm"
 
 #: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:50
 msgctxt "cookie notice"
 msgid "More info"
-msgstr ""
+msgstr "Thêm"
 
 #: inc/extensions/flatsome-cookie-notice/flatsome-cookie-notice.php:60
 msgctxt "cookie notice"
 msgid "Accept"
-msgstr ""
+msgstr "Chấp nhận"
 
 #: inc/extensions/flatsome-infinite-scroll/templates/button.php:2
 msgid "View more"
-msgstr ""
+msgstr "Xem thêm"
 
 #: inc/extensions/flatsome-live-search/flatsome-live-search.php:198
 msgid "No matches found"
-msgstr ""
+msgstr "Không có"
 
 #: inc/extensions/flatsome-wc-quick-view/flatsome-quick-view.php:15
 msgid "Quick View"
-msgstr ""
+msgstr "Xem"
 
 #: inc/functions/function-custom-css.php:655
 #: inc/woocommerce/structure-wc-product-box.php:29
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 #: inc/functions/function-custom-css.php:656
 msgid "Hot"
-msgstr ""
+msgstr "Hot"
 
 #: inc/functions/function-custom-css.php:657
 msgid "Sale"
-msgstr ""
+msgstr "Giảm giá"
 
 #: inc/functions/function-custom-css.php:658
 msgid "Popular"
-msgstr ""
+msgstr "Thông dụng"
 
 #: inc/functions/function-setup.php:53 inc/functions/function-setup.php:175
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu chính"
 
 #: inc/functions/function-setup.php:54
 msgid "Main Menu - Mobile"
-msgstr ""
+msgstr "Menu chính - Mobile"
 
 #: inc/functions/function-setup.php:55
 msgid "Footer Menu"
-msgstr ""
+msgstr "Menu chân trang"
 
 #: inc/functions/function-setup.php:56
 msgid "Top Bar Menu"
-msgstr ""
+msgstr "Top Bar Menu"
 
 #: inc/functions/function-setup.php:57
 msgid "My Account Menu"
-msgstr ""
+msgstr "Menu tài khoản"
 
 #: inc/functions/function-setup.php:77
 msgid "Sidebar"
-msgstr ""
+msgstr "Sidebar"
 
 #: inc/functions/function-setup.php:87
 msgid "Footer 1"
-msgstr ""
+msgstr "Chân trang 1"
 
 #: inc/functions/function-setup.php:97
 msgid "Footer 2"
-msgstr ""
+msgstr "Chân trang 2"
 
 #: inc/integrations/wc-yith-wishlist/yith-wishlist.php:61
 #: inc/integrations/wc-yith-wishlist/yith-wishlist.php:82
 msgid "Wishlist"
-msgstr ""
+msgstr "Wishlist"
 
 #. translators: %s: comment count
 #: inc/shortcodes/blog_posts.php:281
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
+msgstr[0] "%s Bình luận"
 
 #: inc/shortcodes/portfolio.php:143 woocommerce/product-searchform.php:38
 msgid "All"
-msgstr ""
+msgstr "Tất cả"
 
 #: inc/shortcodes/share_follow.php:77
 msgid "Share on WhatsApp"
-msgstr ""
+msgstr "Share on WhatsApp"
 
 #: inc/shortcodes/share_follow.php:79
 msgid "Share on Facebook"
-msgstr ""
+msgstr "Chia sẻ Facebook"
 
 #: inc/shortcodes/share_follow.php:81
 msgid "Share on Twitter"
-msgstr ""
+msgstr "Share on Twitter"
 
 #: inc/shortcodes/share_follow.php:83
 msgid "Email to a Friend"
-msgstr ""
+msgstr "Gửi email"
 
 #: inc/shortcodes/share_follow.php:85
 msgid "Pin on Pinterest"
-msgstr ""
+msgstr "Pin on Pinterest"
 
 #: inc/shortcodes/share_follow.php:87
 msgid "Share on VKontakte"
-msgstr ""
+msgstr "Share on VKontakte"
 
 #: inc/shortcodes/share_follow.php:89
 msgid "Share on LinkedIn"
-msgstr ""
+msgstr "Chia sẻ LinkedIn"
 
 #: inc/shortcodes/share_follow.php:91
 msgid "Share on Tumblr"
-msgstr ""
+msgstr "Share on Tumblr"
 
 #: inc/shortcodes/share_follow.php:177
 msgid "Follow on Facebook"
@@ -322,7 +326,7 @@ msgstr ""
 
 #: inc/shortcodes/share_follow.php:194
 msgid "Point the SnapChat camera at this to add us to SnapChat."
-msgstr ""
+msgstr "Point the SnapChat camera at this to add us to SnapChat."
 
 #: inc/shortcodes/share_follow.php:199
 msgid "Follow on Twitter"
@@ -330,11 +334,11 @@ msgstr ""
 
 #: inc/shortcodes/share_follow.php:203
 msgid "Send us an email"
-msgstr ""
+msgstr "Gửi email"
 
 #: inc/shortcodes/share_follow.php:207
 msgid "Call us"
-msgstr ""
+msgstr "Gọi chúng tôi"
 
 #: inc/shortcodes/share_follow.php:211
 msgid "Follow on Pinterest"
@@ -367,23 +371,23 @@ msgstr ""
 #: inc/structure/structure-portfolio.php:50
 msgctxt "breadcrumb"
 msgid "Home"
-msgstr ""
+msgstr "Trang chủ"
 
 #: inc/structure/structure-posts.php:139
 msgid "<span class=\"icon-angle-left\"></span> Older posts"
-msgstr ""
+msgstr "<span class=\"icon-angle-left\"></span> Bài cũ"
 
 #: inc/structure/structure-posts.php:144
 msgid "Newer posts <span class=\"icon-angle-right\"></span>"
-msgstr ""
+msgstr "Bài mới <span class=\"icon-angle-right\"></span>"
 
 #: inc/structure/structure-posts.php:168
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: inc/structure/structure-posts.php:184
 msgid "%s <span class=\"says\">says:</span>"
-msgstr ""
+msgstr "%s <span class=\"says\">viết:</span>"
 
 #: inc/structure/structure-posts.php:186
 msgid "Your comment is awaiting moderation."
@@ -397,12 +401,12 @@ msgstr ""
 #: inc/structure/structure-posts.php:235
 msgctxt "post date"
 msgid "Posted on %s"
-msgstr ""
+msgstr "Đăng lúc %s"
 
 #: inc/structure/structure-posts.php:240
 msgctxt "post author"
 msgid "by %s"
-msgstr ""
+msgstr "bởi %s"
 
 #: inc/widgets/widget-blocks.php:17
 msgid "A widget that displays a Block "
@@ -414,11 +418,11 @@ msgstr ""
 
 #: inc/widgets/widget-blocks.php:85 inc/widgets/widget-recent-posts.php:129
 msgid "Title:"
-msgstr ""
+msgstr "Tiêu đề:"
 
 #: inc/widgets/widget-blocks.php:88
 msgid "Block:"
-msgstr ""
+msgstr "Khối:"
 
 #: inc/widgets/widget-recent-posts.php:18
 msgid "A widget that displays recent posts "
@@ -430,23 +434,23 @@ msgstr ""
 
 #: inc/widgets/widget-recent-posts.php:49
 msgid "Recent Posts"
-msgstr ""
+msgstr "Bài viết mới"
 
 #: inc/widgets/widget-recent-posts.php:86
 #: template-parts/posts/partials/entry-footer-single.php:24
 #: template-parts/posts/partials/entry-footer.php:24
 msgid "<strong>1</strong> Comment"
-msgstr ""
+msgstr "<strong>1</strong> Bình luận"
 
 #: inc/widgets/widget-recent-posts.php:86
 #: template-parts/posts/partials/entry-footer-single.php:24
 #: template-parts/posts/partials/entry-footer.php:24
 msgid "<strong>%</strong> Comments"
-msgstr ""
+msgstr "<strong>%</strong> Bình luận"
 
 #: inc/widgets/widget-recent-posts.php:132
 msgid "Number of posts to show:"
-msgstr ""
+msgstr "Số bài hiển thị:"
 
 #: inc/widgets/widget-recent-posts.php:136
 msgid "Show thumbnail"
@@ -454,7 +458,7 @@ msgstr ""
 
 #: inc/widgets/widget-recent-posts.php:139
 msgid "Show date stamp on thumbnail"
-msgstr ""
+msgstr "Hiển thị ngày trên ảnh nhỏ"
 
 #: inc/widgets/widget-recent-posts.php:140
 msgid ""
@@ -473,7 +477,7 @@ msgstr ""
 #: inc/woocommerce/structure-wc-category-page.php:97
 #: inc/woocommerce/structure-wc-product-page-fields.php:31
 msgid "Top Content"
-msgstr ""
+msgstr "Top Content"
 
 #: inc/woocommerce/structure-wc-category-page.php:102
 msgid ""
@@ -498,27 +502,27 @@ msgstr ""
 
 #: inc/woocommerce/structure-wc-checkout.php:166
 msgid "I have read and agree"
-msgstr ""
+msgstr "Tôi đã đọc và đồng ý"
 
 #: inc/woocommerce/structure-wc-global.php:90
 msgid "Shop Sidebar"
-msgstr ""
+msgstr "Shop Sidebar"
 
 #: inc/woocommerce/structure-wc-global.php:99
 msgid "Product Sidebar"
-msgstr ""
+msgstr "Product Sidebar"
 
 #: inc/woocommerce/structure-wc-global.php:258
 msgid "Posts found"
-msgstr ""
+msgstr "Bài viết tìm thấy"
 
 #: inc/woocommerce/structure-wc-global.php:271
 msgid "Pages found"
-msgstr ""
+msgstr "Các trang tìm thấy"
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:17
 msgid "Product layout"
-msgstr ""
+msgstr "Giao diện sản phẩm"
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:24
 msgid "Choose a custom product block layout for this product."
@@ -537,7 +541,7 @@ msgstr ""
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:46
 msgid "Extra"
-msgstr ""
+msgstr "Thêm"
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:52
 msgid "Enable a custom bubble on this product."
@@ -545,7 +549,7 @@ msgstr ""
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:82
 msgid "Custom Tab Content"
-msgstr ""
+msgstr "Tùy biến nội dung Tab"
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:84
 msgid "Enter content for custom product tab here. Shortcodes are allowed"
@@ -553,7 +557,7 @@ msgstr ""
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:93
 msgid "Product Video"
-msgstr ""
+msgstr "Product Video"
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:95
 msgid ""
@@ -563,107 +567,107 @@ msgstr ""
 
 #: inc/woocommerce/structure-wc-product-page-fields.php:110
 msgid "Select where you want to display product video."
-msgstr ""
+msgstr "Chọn nơi hiển thị video."
 
 #: inc/woocommerce/structure-wc-product-page.php:73
 #: inc/woocommerce/structure-wc-product-page.php:137
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: inc/woocommerce/structure-wc-product-page.php:104
 msgid "Zoom"
-msgstr ""
+msgstr "Thu phóng"
 
 #. Template Name of the theme
 msgid "Page - Full Width - Parallax Title"
-msgstr ""
+msgstr "Page - Full Width - Parallax Title"
 
 #. Template Name of the theme
 msgid "Page - No Header / No Footer"
-msgstr ""
+msgstr "Page - No Header / No Footer"
 
 #. Template Name of the theme
 msgid "Page - Vertical Sub-Nav"
-msgstr ""
+msgstr "Page - Vertical Sub-Nav"
 
 #. Template Name of the theme
 msgid "Page - Container - Center Title"
-msgstr ""
+msgstr "Trang - Container - Tiêu đề giữa"
 
 #. Template Name of the theme
 msgid "Page - Full Width"
-msgstr ""
+msgstr "Page - Full Width"
 
 #. Template Name of the theme
 msgid "WooCommerce - Cart"
-msgstr ""
+msgstr "Giỏ hàng"
 
 #. Template Name of the theme
 msgid "WooCommerce - Checkout"
-msgstr ""
+msgstr "Thanh toán"
 
 #. Template Name of the theme
 msgid "Portfolio"
-msgstr ""
+msgstr "Portfolio"
 
 #. Template Name of the theme
 msgid "Page - Full Width - Header on Scroll"
-msgstr ""
+msgstr "Page - Full Width - Header on Scroll"
 
 #. Template Name of the theme
 msgid "Page - Left Sidebar"
-msgstr ""
+msgstr "Page - Left Sidebar"
 
 #. Template Name of the theme
 msgid "WooCommerce - My Account"
-msgstr ""
+msgstr "Tài khoản"
 
 #. Template Name of the theme
 msgid "Page - Right Sidebar"
-msgstr ""
+msgstr "Page - Right Sidebar"
 
 #. Template Name of the theme
 msgid "Page - Single Page Nav - Transparent Header - Light Text"
-msgstr ""
+msgstr "Page - Single Page Nav - Transparent Header - Light Text"
 
 #. Template Name of the theme
 msgid "Page - Single Page Nav - Transparent Header"
-msgstr ""
+msgstr "Page - Single Page Nav - Transparent Header"
 
 #. Template Name of the theme
 msgid "Page - Single Page Nav"
-msgstr ""
+msgstr "Page - Single Page Nav"
 
 #. Template Name of the theme
 msgid "Page - Full Width - Transparent Header - Light Text"
-msgstr ""
+msgstr "Page - Full Width - Transparent Header - Light Text"
 
 #. Template Name of the theme
 msgid "Page - Full Width - Transparent Header"
-msgstr ""
+msgstr "Page - Full Width - Transparent Header"
 
 #: searchform.php:17
 msgid "Submit"
-msgstr ""
+msgstr "Xác nhận"
 
 #: template-parts/header/partials/element-contact-mobile.php:29
 #: template-parts/header/partials/element-contact.php:24
 msgid "Location"
-msgstr ""
+msgstr "Vị trí"
 
 #: template-parts/header/partials/element-contact-mobile.php:38
 #: template-parts/header/partials/element-contact.php:43
 msgid "Contact"
-msgstr ""
+msgstr "Liên hệ"
 
 #: template-parts/header/partials/element-menu-icon.php:4
 #: template-parts/header/partials/element-menu-icon.php:8
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: template-parts/posts/content-none.php:14
 msgid "Nothing Found"
-msgstr ""
+msgstr "Không tìm thấy"
 
 #: template-parts/posts/content-none.php:20
 msgid ""
@@ -674,7 +678,7 @@ msgstr ""
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
-msgstr ""
+msgstr "Không có kết quả phù hợp. Vui lòng thử với từ khóa khác."
 
 #: template-parts/posts/content-none.php:29
 msgid ""
@@ -691,17 +695,19 @@ msgstr ""
 #: template-parts/posts/partials/entry-footer.php:13
 #: template-parts/posts/partials/entry-title.php:2
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: template-parts/posts/content-single.php:30
 msgid "This entry was posted in %1$s and tagged %2$s."
-msgstr ""
+msgstr "Được đăng trong %1$s và gắn thẻ %2$s."
 
 #: template-parts/posts/content-single.php:32
 msgid ""
 "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
 "\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
 msgstr ""
+"Được đăng trong mục %1$s. Lưu <a href=\"%3$s\" title=\"Permalink to %4$s\" "
+"rel=\"bookmark\">Liên kết</a>."
 
 #: template-parts/posts/content.php:6 template-parts/posts/content.php:10
 #: template-parts/posts/featured-posts.php:23
@@ -711,7 +717,7 @@ msgstr ""
 #: template-parts/posts/loop/post-simple.php:23
 msgid "%1$s Comment"
 msgid_plural "%1$s Comments"
-msgstr[0] ""
+msgstr[0] "%1$s Bình luận"
 
 #: template-parts/posts/partials/archive-title.php:8
 msgid "Category Archives: %s"
@@ -723,7 +729,7 @@ msgstr ""
 
 #: template-parts/posts/partials/archive-title.php:14
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Kết quả tìm kiếm: %s"
 
 #: template-parts/posts/partials/archive-title.php:21
 msgid "Author Archives: %s"
@@ -743,28 +749,28 @@ msgstr ""
 
 #: template-parts/posts/partials/archive-title.php:38
 msgid "Asides"
-msgstr ""
+msgstr "Bên cạnh"
 
 #: template-parts/posts/partials/archive-title.php:41
 msgid "Images"
-msgstr ""
+msgstr "Ảnh"
 
 #: template-parts/posts/partials/archive-title.php:44
 msgid "Videos"
-msgstr ""
+msgstr "Videos"
 
 #: template-parts/posts/partials/archive-title.php:47
 msgid "Quotes"
-msgstr ""
+msgstr "Báo giá"
 
 #: template-parts/posts/partials/archive-title.php:50
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: template-parts/posts/partials/entry-footer-single.php:8
 #: template-parts/posts/partials/entry-footer.php:8
 msgid "Posted in %1$s"
-msgstr ""
+msgstr "Đăng trong %1$s"
 
 #: template-parts/posts/partials/entry-footer-single.php:18
 #: template-parts/posts/partials/entry-footer.php:18
@@ -774,24 +780,24 @@ msgstr ""
 #: template-parts/posts/partials/entry-footer-single.php:24
 #: template-parts/posts/partials/entry-footer.php:24
 msgid "Leave a comment"
-msgstr ""
+msgstr "Bình luận"
 
 #: woocommerce/checkout/header-small.php:22 woocommerce/checkout/header.php:22
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Giỏ hàng"
 
 #: woocommerce/checkout/header-small.php:27 woocommerce/checkout/header.php:27
 msgid "Checkout details"
-msgstr ""
+msgstr "Chi tiết thanh toán"
 
 #: woocommerce/checkout/header-small.php:32 woocommerce/checkout/header.php:32
 msgid "Order Complete"
-msgstr ""
+msgstr "Hoàn thành đặt hàng"
 
 #: woocommerce/checkout/social-login.php:8 woocommerce/myaccount/header.php:64
 msgid "Login with <strong>Facebook</strong>"
-msgstr ""
+msgstr "Đăng nhập bằng <strong>Facebook</strong>"
 
 #: woocommerce/checkout/social-login.php:19 woocommerce/myaccount/header.php:74
 msgid "Login with <strong>Google</strong>"
-msgstr ""
+msgstr "Đăng nhập với <strong>Google</strong>"
