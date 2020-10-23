@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2020-10-18 14:55+0700\n"
-"PO-Revision-Date: 2020-10-21 12:26+0700\n"
+"PO-Revision-Date: 2020-10-21 14:24+0700\n"
 "X-Generator: Poedit 2.4.1\n"
 "X-Domain: woocommerce\n"
 "Last-Translator: \n"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: i18n/continents.php:15
 msgid "Africa"
-msgstr ""
+msgstr "Africa"
 
 #: i18n/continents.php:78 i18n/countries.php:23
 msgid "Antarctica"
@@ -145,15 +145,15 @@ msgstr ""
 
 #: i18n/countries.php:15
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afghanistan"
 
 #: i18n/countries.php:16
 msgid "Åland Islands"
-msgstr ""
+msgstr "Åland Islands"
 
 #: i18n/countries.php:17
 msgid "Albania"
-msgstr ""
+msgstr "Albania"
 
 #: i18n/countries.php:18
 msgid "Algeria"
@@ -1737,11 +1737,11 @@ msgstr ""
 
 #: i18n/states.php:187
 msgid "Acre"
-msgstr ""
+msgstr "Acre"
 
 #: i18n/states.php:188
 msgid "Alagoas"
-msgstr ""
+msgstr "Alagoas"
 
 #: i18n/states.php:189
 msgid "Amapá"
@@ -1897,7 +1897,7 @@ msgstr ""
 
 #: i18n/states.php:231
 msgid "Aargau"
-msgstr ""
+msgstr "Aargau"
 
 #: i18n/states.php:232
 msgid "Appenzell Ausserrhoden"
@@ -2129,7 +2129,7 @@ msgstr ""
 
 #: i18n/states.php:296
 msgid "Adrar"
-msgstr ""
+msgstr "Adrar"
 
 #: i18n/states.php:297
 msgid "Chlef"
@@ -2301,7 +2301,7 @@ msgstr ""
 
 #: i18n/states.php:339
 msgid "Aïn Defla"
-msgstr ""
+msgstr "Aïn Defla"
 
 #: i18n/states.php:340
 msgid "Naama"
@@ -2309,7 +2309,7 @@ msgstr ""
 
 #: i18n/states.php:341
 msgid "Aïn Témouchent"
-msgstr ""
+msgstr "Aïn Témouchent"
 
 #: i18n/states.php:342
 msgid "Ghardaïa"
@@ -2321,7 +2321,7 @@ msgstr ""
 
 #: i18n/states.php:347
 msgid "A Coruña"
-msgstr ""
+msgstr "A Coruña"
 
 #: i18n/states.php:348
 msgid "Araba/Álava"
@@ -2329,7 +2329,7 @@ msgstr ""
 
 #: i18n/states.php:349
 msgid "Albacete"
-msgstr ""
+msgstr "Albacete"
 
 #: i18n/states.php:350
 msgid "Alicante"
@@ -2521,7 +2521,7 @@ msgstr ""
 
 #: i18n/states.php:403
 msgid "Ahafo"
-msgstr ""
+msgstr "Ahafo"
 
 #: i18n/states.php:404
 msgid "Ashanti"
@@ -3241,7 +3241,7 @@ msgstr ""
 
 #: i18n/states.php:602
 msgid "Agrigento"
-msgstr ""
+msgstr "Agrigento"
 
 #: i18n/states.php:603
 msgid "Alessandria"
@@ -3685,7 +3685,7 @@ msgstr ""
 
 #: i18n/states.php:724
 msgid "Akita"
-msgstr ""
+msgstr "Akita"
 
 #: i18n/states.php:725
 msgid "Yamagata"
@@ -3757,7 +3757,7 @@ msgstr ""
 
 #: i18n/states.php:742
 msgid "Aichi"
-msgstr ""
+msgstr "Aichi"
 
 #: i18n/states.php:743
 msgid "Mie"
@@ -4329,7 +4329,7 @@ msgstr ""
 
 #: i18n/states.php:901
 msgid "Aguascalientes"
-msgstr ""
+msgstr "Aguascalientes"
 
 #: i18n/states.php:902
 msgid "Baja California"
@@ -4609,19 +4609,19 @@ msgstr ""
 
 #: i18n/states.php:979
 msgid "Abia"
-msgstr ""
+msgstr "Abia"
 
 #: i18n/states.php:980
 msgid "Abuja"
-msgstr ""
+msgstr "Abuja"
 
 #: i18n/states.php:981
 msgid "Adamawa"
-msgstr ""
+msgstr "Adamawa"
 
 #: i18n/states.php:982
 msgid "Akwa Ibom"
-msgstr ""
+msgstr "Akwa Ibom"
 
 #: i18n/states.php:983
 msgid "Anambra"
@@ -4973,23 +4973,23 @@ msgstr ""
 
 #: i18n/states.php:1086
 msgid "Abra"
-msgstr ""
+msgstr "Abra"
 
 #: i18n/states.php:1087
 msgid "Agusan del Norte"
-msgstr ""
+msgstr "Agusan del Norte"
 
 #: i18n/states.php:1088
 msgid "Agusan del Sur"
-msgstr ""
+msgstr "Agusan del Sur"
 
 #: i18n/states.php:1089
 msgid "Aklan"
-msgstr ""
+msgstr "Aklan"
 
 #: i18n/states.php:1090
 msgid "Albay"
-msgstr ""
+msgstr "Albay"
 
 #: i18n/states.php:1091
 msgid "Antique"
@@ -5393,7 +5393,7 @@ msgstr ""
 
 #: i18n/states.php:1203
 msgid "Alba"
-msgstr ""
+msgstr "Alba"
 
 #: i18n/states.php:1204
 msgid "Arad"
@@ -5865,19 +5865,19 @@ msgstr ""
 
 #: i18n/states.php:1330
 msgid "Adana"
-msgstr ""
+msgstr "Adana"
 
 #: i18n/states.php:1331
 msgid "Adıyaman"
-msgstr ""
+msgstr "Adıyaman"
 
 #: i18n/states.php:1332
 msgid "Afyon"
-msgstr ""
+msgstr "Afyon"
 
 #: i18n/states.php:1333
 msgid "Ağrı"
-msgstr ""
+msgstr "Ağrı"
 
 #: i18n/states.php:1334
 msgid "Amasya"
@@ -6133,7 +6133,7 @@ msgstr ""
 
 #: i18n/states.php:1397
 msgid "Aksaray"
-msgstr ""
+msgstr "Aksaray"
 
 #: i18n/states.php:1398
 msgid "Bayburt"
@@ -6309,15 +6309,15 @@ msgstr ""
 
 #: i18n/states.php:1447
 msgid "Abim"
-msgstr ""
+msgstr "Abim"
 
 #: i18n/states.php:1448
 msgid "Adjumani"
-msgstr ""
+msgstr "Adjumani"
 
 #: i18n/states.php:1449
 msgid "Agago"
-msgstr ""
+msgstr "Agago"
 
 #: i18n/states.php:1450
 msgid "Alebtong"
@@ -6853,11 +6853,11 @@ msgstr ""
 
 #: i18n/states.php:1588
 msgid "Alabama"
-msgstr ""
+msgstr "Alabama"
 
 #: i18n/states.php:1589
 msgid "Alaska"
-msgstr ""
+msgstr "Alaska"
 
 #: i18n/states.php:1590
 msgid "Arizona"
@@ -6894,7 +6894,7 @@ msgstr ""
 #: i18n/states.php:1598
 msgctxt "US state of Georgia"
 msgid "Georgia"
-msgstr ""
+msgstr "Nội Bài"
 
 #: i18n/states.php:1599
 msgid "Hawaii"
@@ -7269,7 +7269,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/featured-product-legacy.js:1
 #: packages/woocommerce-blocks/build/featured-product.js:1
 msgid "Add to cart"
-msgstr ""
+msgstr "Cho vào giỏ"
 
 #: includes/abstracts/abstract-wc-product.php:1864 includes/class-wc-embed.php:106
 #: includes/class-wc-product-simple.php:60
@@ -7506,7 +7506,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-api-keys.php:99
 msgid "Add key"
-msgstr ""
+msgstr "Thêm khóa"
 
 #: includes/admin/class-wc-admin-api-keys.php:112
 msgid "Search key"
@@ -7727,11 +7727,11 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-assets.php:263
 msgid "%qty% variation"
-msgstr ""
+msgstr "%qty% biến thể"
 
 #: includes/admin/class-wc-admin-assets.php:264
 msgid "%qty% variations"
-msgstr ""
+msgstr "%qty% biến thể"
 
 #: includes/admin/class-wc-admin-assets.php:279
 #: includes/admin/class-wc-admin-assets.php:446
@@ -8140,7 +8140,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/attribute-filter/edit.js:247
 #: packages/woocommerce-blocks/build/attribute-filter.js:1
 msgid "Add new attribute"
-msgstr ""
+msgstr "Thêm mới thuộc tính"
 
 #: includes/admin/class-wc-admin-attributes.php:388
 msgid ""
@@ -8154,7 +8154,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-attributes.php:455
 msgid "Add attribute"
-msgstr ""
+msgstr "Thêm thuộc tính"
 
 #: includes/admin/class-wc-admin-attributes.php:466
 msgid "Are you sure you want to delete this attribute?"
@@ -8194,41 +8194,41 @@ msgstr ""
 #. translators: %s: net sales
 #: includes/admin/class-wc-admin-dashboard.php:124
 msgid "%s net sales this month"
-msgstr ""
+msgstr "%s tổng giảm giá trong tháng này"
 
 #. translators: 1: top seller product title 2: top seller quantity
 #: includes/admin/class-wc-admin-dashboard.php:142
 msgid "%1$s top seller this month (sold %2$d)"
-msgstr ""
+msgstr "Bán chạy nhất %1$s tháng này (đã bán % 2$d)"
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-dashboard.php:181
 msgid "<strong>%s order</strong> awaiting processing"
 msgid_plural "<strong>%s orders</strong> awaiting processing"
-msgstr[0] ""
+msgstr[0] "<strong>%s đơn hàng</strong> đang đợi xử lý"
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-dashboard.php:192
 msgid "<strong>%s order</strong> on-hold"
 msgid_plural "<strong>%s orders</strong> on-hold"
-msgstr[0] ""
+msgstr[0] "<strong>%s đơn hàng</strong> đang giữ"
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-dashboard.php:281
 msgid "<strong>%s product</strong> low in stock"
 msgid_plural "<strong>%s products</strong> low in stock"
-msgstr[0] ""
+msgstr[0] "<strong>%s sản phẩm</strong> sắp hết trong kho"
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-dashboard.php:292
 msgid "<strong>%s product</strong> out of stock"
 msgid_plural "<strong>%s products</strong> out of stock"
-msgstr[0] ""
+msgstr[0] "<strong>%s sản phẩm</strong> sắp hết trong kho"
 
 #. translators: %s: rating
 #: includes/admin/class-wc-admin-dashboard.php:335
 msgid "%s out of 5"
-msgstr ""
+msgstr "%s còn dưới 5"
 
 #. translators: %s: review author
 #: includes/admin/class-wc-admin-dashboard.php:338
@@ -8332,7 +8332,7 @@ msgstr ""
 #. translators: %s contains the name of the original product.
 #: includes/admin/class-wc-admin-duplicate-product.php:154
 msgid "%s (Copy)"
-msgstr ""
+msgstr "%s (bản sao)"
 
 #: includes/admin/class-wc-admin-exporters.php:44
 msgid "Product Export"
@@ -8422,7 +8422,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-help.php:88
 msgid "About WooCommerce"
-msgstr ""
+msgstr "About WooCommerce"
 
 #: includes/admin/class-wc-admin-help.php:89
 msgid "WordPress.org project"
@@ -8601,7 +8601,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-menus.php:349
 msgid "Add to menu"
-msgstr ""
+msgstr "Thêm vào menu"
 
 #: includes/admin/class-wc-admin-menus.php:383
 msgid "Visit Store"
@@ -8625,12 +8625,12 @@ msgstr ""
 #. Translators: %s order type name.
 #: includes/admin/class-wc-admin-meta-boxes.php:125
 msgid "%s data"
-msgstr ""
+msgstr "%s dữ liệu"
 
 #. Translators: %s order type name.
 #: includes/admin/class-wc-admin-meta-boxes.php:128
 msgid "%s notes"
-msgstr ""
+msgstr "%s ghi chú"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:129
 msgid "Downloadable product permissions"
@@ -8645,7 +8645,7 @@ msgstr ""
 #. Translators: %s order type name.
 #: includes/admin/class-wc-admin-meta-boxes.php:131
 msgid "%s actions"
-msgstr ""
+msgstr "%s hành động"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:135
 msgid "Coupon data"
@@ -8667,7 +8667,7 @@ msgstr ""
 #: includes/admin/class-wc-admin-status.php:330
 #: includes/emails/class-wc-email.php:884
 msgid "Action failed. Please refresh the page and retry."
-msgstr ""
+msgstr "Hành động thất bại. Refresh trang và thực hiện lại."
 
 #: includes/admin/class-wc-admin-notices.php:158
 #: includes/emails/class-wc-email.php:888
@@ -9044,67 +9044,67 @@ msgstr ""
 #: includes/admin/class-wc-admin-post-types.php:197
 msgid "%s product updated."
 msgid_plural "%s products updated."
-msgstr[0] ""
+msgstr[0] "%s sản phẩm được cập nhật."
 
 #. translators: %s: product count
 #: includes/admin/class-wc-admin-post-types.php:199
 msgid "%s product not updated, somebody is editing it."
 msgid_plural "%s products not updated, somebody is editing them."
-msgstr[0] ""
+msgstr[0] "%s sản phẩm chưa được cập nhật. Ai đó đang sửa sản phẩm."
 
 #. translators: %s: product count
 #: includes/admin/class-wc-admin-post-types.php:201
 msgid "%s product permanently deleted."
 msgid_plural "%s products permanently deleted."
-msgstr[0] ""
+msgstr[0] "%s sản phẩm bị xóa."
 
 #. translators: %s: product count
 #: includes/admin/class-wc-admin-post-types.php:203
 msgid "%s product moved to the Trash."
 msgid_plural "%s products moved to the Trash."
-msgstr[0] ""
+msgstr[0] "%s sản phẩm bị xóa."
 
 #. translators: %s: product count
 #: includes/admin/class-wc-admin-post-types.php:205
 msgid "%s product restored from the Trash."
 msgid_plural "%s products restored from the Trash."
-msgstr[0] ""
+msgstr[0] "%s sản phẩm được khôi phục."
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-post-types.php:210
 msgid "%s order updated."
 msgid_plural "%s orders updated."
-msgstr[0] ""
+msgstr[0] "%s đơn hàng được cập nhật."
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-post-types.php:212
 msgid "%s order not updated, somebody is editing it."
 msgid_plural "%s orders not updated, somebody is editing them."
-msgstr[0] ""
+msgstr[0] "%s đơn hàng chưa cập nhật, ai đó đang sửa đơn này."
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-post-types.php:214
 msgid "%s order permanently deleted."
 msgid_plural "%s orders permanently deleted."
-msgstr[0] ""
+msgstr[0] "%s đơn hàng bị xóa vĩnh viễn."
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-post-types.php:216
 msgid "%s order moved to the Trash."
 msgid_plural "%s orders moved to the Trash."
-msgstr[0] ""
+msgstr[0] "%s đơn hàng được xóa."
 
 #. translators: %s: order count
 #: includes/admin/class-wc-admin-post-types.php:218
 msgid "%s order restored from the Trash."
 msgid_plural "%s orders restored from the Trash."
-msgstr[0] ""
+msgstr[0] "%s đơn hàng được khôi phục."
 
 #. translators: %s: coupon count
 #: includes/admin/class-wc-admin-post-types.php:223
 msgid "%s coupon updated."
 msgid_plural "%s coupons updated."
-msgstr[0] ""
+msgstr[0] "%s ưu đãi cập nhật."
 
 #. translators: %s: coupon count
 #: includes/admin/class-wc-admin-post-types.php:225
@@ -9122,7 +9122,7 @@ msgstr[0] ""
 #: includes/admin/class-wc-admin-post-types.php:229
 msgid "%s coupon moved to the Trash."
 msgid_plural "%s coupons moved to the Trash."
-msgstr[0] ""
+msgstr[0] "%s ưu đãi bị xóa."
 
 #. translators: %s: coupon count
 #: includes/admin/class-wc-admin-post-types.php:231
@@ -9263,7 +9263,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:170
 #: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:233
 msgid "Address line 1"
-msgstr ""
+msgstr "Địa chỉ 1"
 
 #: includes/admin/class-wc-admin-profile.php:62
 #: includes/admin/class-wc-admin-profile.php:122
@@ -9279,7 +9279,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:175
 #: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:238
 msgid "Address line 2"
-msgstr ""
+msgstr "Địa chỉ 2"
 
 #: includes/admin/class-wc-admin-profile.php:66
 #: includes/admin/class-wc-admin-profile.php:126
@@ -9601,7 +9601,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-setup-wizard.php:294
 msgid "Activate"
-msgstr ""
+msgstr "Kích hoạt"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:299
 msgid "Ready!"
@@ -9664,7 +9664,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:6
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:583
 #: includes/admin/class-wc-admin-setup-wizard.php:585
@@ -10774,7 +10774,7 @@ msgstr ""
 #: includes/admin/helper/views/html-main.php:115
 #: includes/wc-webhook-functions.php:145
 msgid "Active"
-msgstr ""
+msgstr "Kích hoạt"
 
 #: includes/admin/helper/class-wc-helper.php:363
 #: includes/admin/helper/views/html-main.php:122
@@ -10810,7 +10810,7 @@ msgstr ""
 #. translators: %s: product name
 #: includes/admin/helper/class-wc-helper.php:497
 msgid "%s activated successfully. You will now receive updates for this product."
-msgstr ""
+msgstr "%s kích hoạt thành công. Bạn có thể nhận cập nhật cho sản phẩm này."
 
 #. translators: %s: product name
 #: includes/admin/helper/class-wc-helper.php:510
@@ -11598,19 +11598,19 @@ msgstr ""
 #: includes/admin/importers/views/html-csv-import-done.php:20
 msgid "%s product imported"
 msgid_plural "%s products imported"
-msgstr[0] ""
+msgstr[0] "%s sản phẩm được nhập"
 
 #. translators: %d: products count
 #: includes/admin/importers/views/html-csv-import-done.php:28
 msgid "%s product updated"
 msgid_plural "%s products updated"
-msgstr[0] ""
+msgstr[0] "%s sản phẩm được cập nhật"
 
 #. translators: %d: products count
 #: includes/admin/importers/views/html-csv-import-done.php:36
 msgid "%s product was skipped"
 msgid_plural "%s products were skipped"
-msgstr[0] ""
+msgstr[0] "%s sản phẩm bị bỏ qua"
 
 #. translators: %d: products count
 #: includes/admin/importers/views/html-csv-import-done.php:44
@@ -11881,7 +11881,7 @@ msgstr ""
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:229
 msgid "%d note"
 msgid_plural "%d notes"
-msgstr[0] ""
+msgstr[0] "%d ghi chú"
 
 #. translators: %s: human-readable time difference
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:255
@@ -12034,7 +12034,7 @@ msgstr ""
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:723
 msgid "%d order status changed."
 msgid_plural "%d order statuses changed."
-msgstr[0] ""
+msgstr[0] "%d đặt hàng có thay đổi."
 
 #. translators: %d: orders count
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:731
@@ -12453,7 +12453,7 @@ msgstr ""
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:327
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:444
 msgid "Address:"
-msgstr ""
+msgstr "Địa chỉ:"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:327
 msgid "No billing address set."
@@ -12518,7 +12518,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:35
 msgid "Add note"
-msgstr ""
+msgstr "Thêm ghi chú"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-notes.php:35
 msgid ""
@@ -12545,7 +12545,7 @@ msgstr ""
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
 #: templates/myaccount/my-address.php:63
 msgid "Add"
-msgstr ""
+msgstr "Thêm"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:63
 msgid "Virtual products are intangible and are not shipped."
@@ -12575,7 +12575,7 @@ msgstr ""
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:123
 #: includes/admin/settings/class-wc-settings-advanced.php:27
 msgid "Advanced"
-msgstr ""
+msgstr "Nâng cao"
 
 #. translators: 1: product ID 2: quantity in stock
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:337
@@ -12596,7 +12596,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:81
 msgid "Add to gallery"
-msgstr ""
+msgstr "Thêm Gallery"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:81
 msgid "Add product gallery images"
@@ -12626,7 +12626,7 @@ msgstr ""
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:32
 #: includes/class-wc-privacy-exporters.php:373
 msgid "Access expires"
-msgstr ""
+msgstr "Truy cập hết hạn"
 
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:33
 #: includes/admin/meta-boxes/views/html-product-data-general.php:138
@@ -12696,12 +12696,12 @@ msgstr ""
 #. translators: %s: variation id
 #: includes/admin/meta-boxes/views/html-order-item.php:35
 msgid "%s (No longer exists)"
-msgstr ""
+msgstr "%s (không có)"
 
 #. translators: %s: discount amount
 #: includes/admin/meta-boxes/views/html-order-item.php:83
 msgid "%s discount"
-msgstr ""
+msgstr "%s giảm giá"
 
 #: includes/admin/meta-boxes/views/html-order-item.php:96
 #: includes/admin/meta-boxes/views/html-order-item.php:144
@@ -12710,7 +12710,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-order-item.php:101
 msgid "After pre-tax discounts."
-msgstr ""
+msgstr "Sau khi giảm giá trước thuế."
 
 #: includes/admin/meta-boxes/views/html-order-item.php:164
 msgid "Edit item"
@@ -12764,7 +12764,7 @@ msgstr ""
 #. translators: 1: payment date. 2: payment method
 #: includes/admin/meta-boxes/views/html-order-items.php:228
 msgid "%1$s via %2$s"
-msgstr ""
+msgstr "%1$s via %2$s"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:246
 msgid "Refunded"
@@ -12776,7 +12776,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-order-items.php:275
 msgid "Add item(s)"
-msgstr ""
+msgstr "Thêm mục"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:277
 #: templates/cart/cart.php:143 templates/checkout/form-coupon.php:38
@@ -12802,20 +12802,20 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-order-items.php:295
 msgid "Add product(s)"
-msgstr ""
+msgstr "Thêm sản phẩm"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:296
 msgid "Add fee"
-msgstr ""
+msgstr "Thêm phí"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:297
 msgid "Add shipping"
-msgstr ""
+msgstr "Thêm vận chuyển"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:299
 #: includes/admin/meta-boxes/views/html-order-items.php:426
 msgid "Add tax"
-msgstr ""
+msgstr "THêm thuế"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:306
 #: templates/myaccount/form-reset-password.php:45
@@ -12875,7 +12875,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-order-items.php:383
 msgid "Add products"
-msgstr ""
+msgstr "Thêm sản phẩm"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:437
 msgid "Rate name"
@@ -12940,7 +12940,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-product-attribute.php:59
 msgid "Add new"
-msgstr ""
+msgstr "Thêm mới"
 
 #: includes/admin/meta-boxes/views/html-product-attribute.php:67
 msgid "Enter some text, or some attributes by \"%s\" separating values."
@@ -13048,7 +13048,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-product-data-general.php:111
 msgid "Add File"
-msgstr ""
+msgstr "Thêm tệp"
 
 #: includes/admin/meta-boxes/views/html-product-data-general.php:124
 #: includes/admin/meta-boxes/views/html-variation-admin.php:416
@@ -13303,7 +13303,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:55
 msgid "Add variation"
-msgstr ""
+msgstr "Thêm biến thể"
 
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:56
 msgid "Create variations from all attributes"
@@ -13389,7 +13389,7 @@ msgstr ""
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:126
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] ""
+msgstr[0] "%s mục"
 
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:100
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:131
@@ -13549,7 +13549,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:400
 msgid "Add file"
-msgstr ""
+msgstr "Thêm tệp"
 
 #: includes/admin/notes/class-wc-notes-run-db-update.php:123
 #: includes/admin/views/html-notice-update.php:33
@@ -13686,12 +13686,12 @@ msgstr ""
 #. translators: %s: discount amount
 #: includes/admin/reports/class-wc-report-coupon-usage.php:114
 msgid "%s discounts in total"
-msgstr ""
+msgstr "%s tổng giảm giá"
 
 #. translators: %s: coupons amount
 #: includes/admin/reports/class-wc-report-coupon-usage.php:121
 msgid "%s coupons used in total"
-msgstr ""
+msgstr "%s ưu đãi được dùng"
 
 #: includes/admin/reports/class-wc-report-coupon-usage.php:135
 #: includes/admin/reports/class-wc-report-customers.php:170
@@ -13794,7 +13794,7 @@ msgstr ""
 #: includes/admin/reports/class-wc-report-customer-list.php:56
 msgid "%s previous order linked"
 msgid_plural "%s previous orders linked"
-msgstr[0] ""
+msgstr[0] "%s đơn hàng được liện kết"
 
 #. translators: User display name
 #: includes/admin/reports/class-wc-report-customer-list.php:66
@@ -13851,7 +13851,7 @@ msgstr ""
 #. translators: %s: signups amount
 #: includes/admin/reports/class-wc-report-customers.php:44
 msgid "%s signups in this period"
-msgstr ""
+msgstr "%s đăng nhập trong thời gian này"
 
 #: includes/admin/reports/class-wc-report-customers.php:116
 msgid "Customer sales"
@@ -13913,7 +13913,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/active-filters/index.js:40
 #: packages/woocommerce-blocks/build/active-filters.js:1
 msgid "Active filters"
-msgstr ""
+msgstr "Bộ lọc kích hoạt"
 
 #: includes/admin/reports/class-wc-report-downloads.php:158
 msgid "Filter by product"
@@ -14006,7 +14006,7 @@ msgstr ""
 #. translators: %s: net sales
 #: includes/admin/reports/class-wc-report-sales-by-date.php:500
 msgid "%s net sales in this period"
-msgstr ""
+msgstr "%s tổng giảm giá trong thời gian ngày"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:503
 msgid ""
@@ -14017,28 +14017,28 @@ msgstr ""
 #. translators: %s: total orders
 #: includes/admin/reports/class-wc-report-sales-by-date.php:518
 msgid "%s orders placed"
-msgstr ""
+msgstr "%s đơn hàng được ghi nhận"
 
 #. translators: %s: total items
 #: includes/admin/reports/class-wc-report-sales-by-date.php:528
 msgid "%s items purchased"
-msgstr ""
+msgstr "%s mục được mua"
 
 #. translators: 1: total refunds 2: total refunded orders 3: refunded items
 #: includes/admin/reports/class-wc-report-sales-by-date.php:537
 msgid "%1$s refunded %2$d order (%3$d item)"
 msgid_plural "%1$s refunded %2$d orders (%3$d items)"
-msgstr[0] ""
+msgstr[0] "Đã hoàn lại %1$s đơn đặt hàng %2$d (%3$d mặt hàng)"
 
 #. translators: %s: total shipping
 #: includes/admin/reports/class-wc-report-sales-by-date.php:548
 msgid "%s charged for shipping"
-msgstr ""
+msgstr "%s phí vận chuyển"
 
 #. translators: %s: total coupons
 #: includes/admin/reports/class-wc-report-sales-by-date.php:557
 msgid "%s worth of coupons used"
-msgstr ""
+msgstr "%s của ưu đãi được sử dụng"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:700
 #: includes/admin/reports/class-wc-report-sales-by-product.php:534
@@ -14076,12 +14076,12 @@ msgstr ""
 #. translators: %s: total items sold
 #: includes/admin/reports/class-wc-report-sales-by-product.php:121
 msgid "%s sales for the selected items"
-msgstr ""
+msgstr "%s giảm giá cho các mục đã chọn"
 
 #. translators: %s: total items purchased
 #: includes/admin/reports/class-wc-report-sales-by-product.php:128
 msgid "%s purchases for the selected items"
-msgstr ""
+msgstr "%s mua các mục được chọn"
 
 #: includes/admin/reports/class-wc-report-sales-by-product.php:176
 msgid "Showing reports for:"
@@ -14144,7 +14144,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/attribute-filter.js:1
 msgid "%s product"
 msgid_plural "%s products"
-msgstr[0] ""
+msgstr[0] "%s sản phẩm"
 
 #: includes/admin/reports/class-wc-report-stock.php:175
 msgid "Units in stock"
@@ -14252,7 +14252,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-accounts.php:70
 msgid "Account creation"
-msgstr ""
+msgstr "Tạo tài khoản"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:71
 msgid "Allow customers to create an account during checkout"
@@ -14533,7 +14533,7 @@ msgstr ""
 #: templates/myaccount/form-add-payment-method.php:54
 #: templates/myaccount/payment-methods.php:77
 msgid "Add payment method"
-msgstr ""
+msgstr "Thêm phương thức thanh toán"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:210
 msgid "Endpoint for the \"Checkout &rarr; Add payment method\" page."
@@ -14595,7 +14595,7 @@ msgstr ""
 #: includes/class-wc-query.php:124 includes/wc-account-functions.php:102
 msgid "Addresses"
 msgid_plural "Address"
-msgstr[0] ""
+msgstr[0] "Địa chỉ"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:285
 msgid "Endpoint for the \"My account &rarr; Addresses\" page."
@@ -15266,7 +15266,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-products.php:247
 msgid "Access restriction"
-msgstr ""
+msgstr "Truy cập hạn chế"
 
 #: includes/admin/settings/class-wc-settings-products.php:248
 msgid "Downloads require login"
@@ -15323,7 +15323,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-products.php:312
 msgid "Add to cart behaviour"
-msgstr ""
+msgstr "Cho vào giỏ"
 
 #: includes/admin/settings/class-wc-settings-products.php:313
 msgid "Redirect to the cart page after successful addition"
@@ -15569,7 +15569,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-tax.php:69
 msgid "%s rates"
-msgstr ""
+msgstr "%s mức"
 
 #: includes/admin/settings/class-wc-settings-tax.php:221
 msgid "No row(s) selected"
@@ -15612,7 +15612,7 @@ msgstr ""
 
 #: includes/admin/settings/views/html-admin-page-shipping-classes.php:30
 msgid "Add shipping class"
-msgstr ""
+msgstr "Thêm lớp vận chuyển"
 
 #: includes/admin/settings/views/html-admin-page-shipping-classes.php:39
 msgid "No shipping classes have been created."
@@ -15686,7 +15686,7 @@ msgstr ""
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:95
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:121
 msgid "Add shipping method"
-msgstr ""
+msgstr "Thêm phương thức vận chuyển"
 
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:114
 msgid ""
@@ -15697,7 +15697,7 @@ msgstr ""
 #. translators: %s: shipping method title
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:145
 msgid "%s Settings"
-msgstr ""
+msgstr "%s Cài đặt"
 
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:184
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:103
@@ -15709,7 +15709,7 @@ msgstr ""
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:9
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:66
 msgid "Add shipping zone"
-msgstr ""
+msgstr "Thêm vùng vận chuyển"
 
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:11
 msgid ""
@@ -15911,7 +15911,7 @@ msgstr ""
 
 #: includes/admin/settings/views/html-settings-tax.php:113
 msgid "%s items"
-msgstr ""
+msgstr "%s mục"
 
 #: includes/admin/settings/views/html-settings-tax.php:121
 msgid "First page"
@@ -16024,11 +16024,11 @@ msgstr ""
 
 #: includes/admin/settings/views/html-webhooks-edit.php:83
 msgid "Action"
-msgstr ""
+msgstr "Hành động"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:100
 msgid "Action event"
-msgstr ""
+msgstr "Sự kiện hành động"
 
 #: includes/admin/settings/views/html-webhooks-edit.php:101
 msgid "Enter the action that will trigger this webhook."
@@ -16132,7 +16132,7 @@ msgstr ""
 
 #: includes/admin/settings/views/settings-tax.php:66
 msgid "Additional tax classes"
-msgstr ""
+msgstr "Lớp thuế bổ sung"
 
 #: includes/admin/settings/views/settings-tax.php:67
 msgid ""
@@ -16394,7 +16394,7 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:159
 msgid "Active Plugin"
-msgstr ""
+msgstr "Kích haotj Plugin"
 
 #: includes/admin/views/html-admin-page-status-report.php:168
 msgid "Unable to detect the WC Admin package."
@@ -16426,7 +16426,7 @@ msgstr ""
 #. Translators: %1$s: Current version, %2$s: New version
 #: includes/admin/views/html-admin-page-status-report.php:208
 msgid "%1$s - There is a newer version of WordPress available (%2$s)"
-msgstr ""
+msgstr "%1$s - Đã có phiên bản WordPress mới hơn (%2$s)"
 
 #: includes/admin/views/html-admin-page-status-report.php:216
 msgid "WordPress multisite"
@@ -16447,7 +16447,7 @@ msgstr ""
 #. Translators: %1$s: Memory limit, %2$s: Docs link.
 #: includes/admin/views/html-admin-page-status-report.php:227
 msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
-msgstr ""
+msgstr "%1$s - Chúng tôi khuyên bạn nên đặt bộ nhớ ít nhất là 64MB. Xem:% 2$s"
 
 #. Translators: %1$s: Memory limit, %2$s: Docs link.
 #: includes/admin/views/html-admin-page-status-report.php:227
@@ -16592,7 +16592,7 @@ msgstr ""
 #. Translators: %1$s: MySQL version, %2$s: Recommended MySQL version.
 #: includes/admin/views/html-admin-page-status-report.php:350
 msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
-msgstr ""
+msgstr "%1$s - Chúng tôi đề xuất phiên bản MySQL tối thiểu là 5.6. Xem:%2$s"
 
 #. Translators: %1$s: MySQL version, %2$s: Recommended MySQL version.
 #: includes/admin/views/html-admin-page-status-report.php:350
@@ -16715,7 +16715,7 @@ msgstr ""
 #: includes/admin/views/html-admin-page-status-report.php:455
 #: includes/admin/views/html-admin-page-status-report.php:469
 msgid "%s failed. Contact your hosting provider."
-msgstr ""
+msgstr "%s thất bại. Liên hệ nhà cung cấp Hosting."
 
 #: includes/admin/views/html-admin-page-status-report.php:461
 msgid "Remote get"
@@ -16749,6 +16749,7 @@ msgstr ""
 #: includes/admin/views/html-admin-page-status-report.php:525
 msgid "%1$s - We recommend using a prefix with less than 20 characters. See: %2$s"
 msgstr ""
+"%1$s - Chúng tôi khuyên bạn nên sử dụng tiền tố có ít hơn 20 ký tự. Xem:%2$s"
 
 #. Translators: %1$s: Database prefix, %2$s: Docs link.
 #: includes/admin/views/html-admin-page-status-report.php:525
@@ -16829,7 +16830,7 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:658
 msgid "Active plugins"
-msgstr ""
+msgstr "Kích hoạt Plugin"
 
 #: includes/admin/views/html-admin-page-status-report.php:668
 msgid "Inactive plugins"
@@ -16992,7 +16993,7 @@ msgstr ""
 #. translators: %s: parent theme latest version
 #: includes/admin/views/html-admin-page-status-report.php:919
 msgid "%s is available"
-msgstr ""
+msgstr "%s có sẵn"
 
 #: includes/admin/views/html-admin-page-status-report.php:925
 msgid "Parent theme author URL"
@@ -17388,7 +17389,7 @@ msgstr ""
 #. translators: %s item name.
 #: includes/admin/wc-admin-functions.php:392
 msgid "Adjusted stock: %s"
-msgstr ""
+msgstr "Điều chỉnh kho: %s"
 
 #: includes/admin/wc-admin-functions.php:469
 msgid ""
@@ -17441,7 +17442,7 @@ msgstr ""
 #. translators: %s fee amount
 #: includes/class-wc-ajax.php:1010
 msgid "%s fee"
-msgstr ""
+msgstr "%s phí"
 
 #: includes/class-wc-ajax.php:1095
 msgid "Invalid rate"
@@ -17613,7 +17614,7 @@ msgstr ""
 #. translators: 1: app name 2: scope 3: date 4: time
 #: includes/class-wc-auth.php:214
 msgid "%1$s - API %2$s (created on %3$s at %4$s)."
-msgstr ""
+msgstr "%1$s - API %2$s (tạo vào %3$s lúc %4$s)."
 
 #: includes/class-wc-auth.php:280
 msgid ""
@@ -17637,7 +17638,7 @@ msgstr ""
 #. translators: %s: error message
 #: includes/class-wc-auth.php:402
 msgid "Access denied"
-msgstr ""
+msgstr "Truy nhập bị cấm"
 
 #: includes/class-wc-breadcrumb.php:117
 msgid "Error 404"
@@ -17700,6 +17701,8 @@ msgid ""
 "%1$s has been removed from your cart because it has since been modified. You "
 "can add it back to your cart <a href=\"%2$s\">here</a>."
 msgstr ""
+"%1$s đã bị xóa khỏi giỏ hàng của bạn vì nó đã được sửa đổi. Bạn có thể thêm lại "
+"vào giỏ hàng của mình <a href=\"%2$s\"> tại đây </a>."
 
 #. translators: %d item count
 #: includes/class-wc-cart-session.php:413
@@ -17752,7 +17755,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php:802
 msgid "%s is a required field"
 msgid_plural "%s are required fields"
-msgstr[0] ""
+msgstr[0] "%s là bắt buộc"
 
 #. translators: %s: product name
 #: includes/class-wc-cart.php:1129
@@ -17817,7 +17820,7 @@ msgstr ""
 
 #: includes/class-wc-checkout.php:251
 msgid "Account username"
-msgstr ""
+msgstr "Tên tài khoản"
 
 #: includes/class-wc-checkout.php:260
 msgid "Create account password"
@@ -17847,35 +17850,37 @@ msgid ""
 "%1$s is not valid. You can look up the correct Eircode <a target=\"_blank\" "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"%1$s không hợp lệ. Bạn có thể tra cứu Eircode chính xác <a target=\"_blank\" "
+"href=\"%2$s\"> tại đây </a>."
 
 #. translators: %s: field name
 #: includes/class-wc-checkout.php:767
 msgid "%s is not a valid postcode / ZIP."
-msgstr ""
+msgstr "%s không phải là mã sai."
 
 #. translators: %s: phone number
 #. translators: %s: Phone number.
 #: includes/class-wc-checkout.php:776 includes/class-wc-form-handler.php:142
 msgid "%s is not a valid phone number."
-msgstr ""
+msgstr "%s là số điện thoại sai."
 
 #. translators: %s: email address
 #. translators: %s: Email address.
 #: includes/class-wc-checkout.php:786 includes/class-wc-form-handler.php:150
 msgid "%s is not a valid email address."
-msgstr ""
+msgstr "%s là địa chỉ email sai."
 
 #. translators: 1: state field 2: valid states
 #: includes/class-wc-checkout.php:806
 msgid "%1$s is not valid. Please enter one of the following: %2$s"
-msgstr ""
+msgstr "%1$s không hợp lệ. Vui lòng nhập một trong những thông tin sau:%2$s"
 
 #. translators: %s: field name
 #. translators: %s: Field name.
 #: includes/class-wc-checkout.php:813 includes/class-wc-form-handler.php:116
 #: includes/class-wc-form-handler.php:262
 msgid "%s is a required field."
-msgstr ""
+msgstr "%s là bắt buộc."
 
 #: includes/class-wc-checkout.php:831 includes/class-wc-form-handler.php:396
 msgid ""
@@ -18328,7 +18333,7 @@ msgstr ""
 #. translators: 1: product name 2: items in stock
 #: includes/class-wc-emails.php:617
 msgid "%1$s is low in stock. There are %2$d left."
-msgstr ""
+msgstr "%1$s sắp hết trong kho. Còn lại %2$d."
 
 #: includes/class-wc-emails.php:641
 msgid "Product out of stock"
@@ -18337,7 +18342,7 @@ msgstr ""
 #. translators: %s: product name
 #: includes/class-wc-emails.php:643
 msgid "%s is out of stock."
-msgstr ""
+msgstr "%s đã hết."
 
 #: includes/class-wc-emails.php:679
 msgid "Product backorder"
@@ -18372,7 +18377,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:191
 msgid "Address changed successfully."
-msgstr ""
+msgstr "Thay đổi địa chỉ thành công."
 
 #: includes/class-wc-form-handler.php:245
 msgid "Display name cannot be changed to email address due to privacy concern."
@@ -18413,7 +18418,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:330
 msgid "Account details changed successfully."
-msgstr ""
+msgstr "Thay đổi thành công."
 
 #. translators: %d number of seconds
 #: includes/class-wc-form-handler.php:475
@@ -18455,7 +18460,7 @@ msgstr "&ldquo;%s&rdquo;"
 #. Translators: %s Product title.
 #: includes/class-wc-form-handler.php:610 includes/class-wc-form-handler.php:614
 msgid "%s removed."
-msgstr ""
+msgstr "%s đã xóa."
 
 #: includes/class-wc-form-handler.php:611
 msgid "Undo?"
@@ -18682,6 +18687,8 @@ msgid ""
 "%1$s could not be installed (%2$s). <a href=\"%3$s\">Please install it manually "
 "by clicking here.</a>"
 msgstr ""
+"Không thể cài đặt %1$ s (%2$s). <a href=\"%3$s\"> Vui lòng cài đặt thủ công "
+"bằng cách nhấp vào đây. </a>"
 
 #. translators: 1: plugin name, 2: URL to WP plugin page.
 #: includes/class-wc-install.php:1537
@@ -18865,7 +18872,7 @@ msgstr ""
 
 #: includes/class-wc-post-types.php:146
 msgid "Add or remove tags"
-msgstr ""
+msgstr "Thêm hoặc xóa thẻ"
 
 #: includes/class-wc-post-types.php:147
 msgid "Choose from the most used tags"
@@ -18955,7 +18962,7 @@ msgstr ""
 #. translators: %s: attribute name
 #: includes/class-wc-post-types.php:236
 msgid "Add new %s"
-msgstr ""
+msgstr "Thêm mới %s"
 
 #. translators: %s: attribute name
 #: includes/class-wc-post-types.php:238
@@ -18988,7 +18995,7 @@ msgstr "Sản phẩm"
 #: packages/woocommerce-admin/includes/connect-existing-pages.php:172
 #: packages/woocommerce-admin/includes/connect-existing-pages.php:202
 msgid "Add New"
-msgstr ""
+msgstr "Thêm mới"
 
 #: includes/class-wc-post-types.php:319
 #: packages/woocommerce-blocks/assets/js/blocks/price-filter/edit.js:141
@@ -18996,7 +19003,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/all-products.js:1
 #: packages/woocommerce-blocks/build/price-filter.js:1
 msgid "Add new product"
-msgstr ""
+msgstr "Thêm mới sản phẩm"
 
 #: includes/class-wc-post-types.php:321
 #: includes/tracks/events/class-wc-products-tracking.php:130
@@ -19078,11 +19085,11 @@ msgstr "Đặt hàng"
 
 #: includes/class-wc-post-types.php:384
 msgid "Add order"
-msgstr ""
+msgstr "Thêm đơn hàng"
 
 #: includes/class-wc-post-types.php:385
 msgid "Add new order"
-msgstr ""
+msgstr "Thêm mới đơn hàng"
 
 #: includes/class-wc-post-types.php:387
 msgid "Edit order"
@@ -19151,11 +19158,11 @@ msgstr "Ưu đãi"
 
 #: includes/class-wc-post-types.php:449
 msgid "Add coupon"
-msgstr ""
+msgstr "Thêm ưu đãi"
 
 #: includes/class-wc-post-types.php:450
 msgid "Add new coupon"
-msgstr ""
+msgstr "Thêm mới ưu đãi"
 
 #: includes/class-wc-post-types.php:452
 msgid "Edit coupon"
@@ -19344,7 +19351,7 @@ msgstr[0] ""
 #: includes/class-wc-post-types.php:599 includes/wc-order-functions.php:100
 msgctxt "Order status"
 msgid "Refunded"
-msgstr ""
+msgstr "Hoàn lại"
 
 #. translators: %s: number of orders
 #: includes/class-wc-post-types.php:605
@@ -19590,7 +19597,7 @@ msgstr ""
 
 #: includes/class-wc-privacy-exporters.php:369
 msgid "Access granted"
-msgstr ""
+msgstr "Truy cập đã đạt"
 
 #: includes/class-wc-privacy-exporters.php:421
 msgid "Payment Tokens"
@@ -19842,7 +19849,7 @@ msgstr ""
 
 #: includes/class-wc-query.php:121 includes/wc-account-functions.php:104
 msgid "Account details"
-msgstr ""
+msgstr "Chi tiết tài khoản"
 
 #. translators: %s: ID of the attachment.
 #: includes/class-wc-regenerate-images-request.php:107
@@ -19940,7 +19947,7 @@ msgstr ""
 #: includes/class-wc-shipping-zone.php:143
 msgid "%s and %d other region"
 msgid_plural "%s and %d other regions"
-msgstr[0] ""
+msgstr[0] "%s và %d vùng khác"
 
 #: includes/class-wc-shipping-zone.php:148
 msgid "Everywhere"
@@ -19980,7 +19987,7 @@ msgstr ""
 #. translators: 1: error message 2: file name and path 3: line number
 #: includes/class-woocommerce.php:218
 msgid "%1$s in %2$s on line %3$s"
-msgstr ""
+msgstr "%1$s trong %2$s trên dòng %3$s"
 
 #: includes/class-woocommerce.php:896
 msgid ""
@@ -20119,7 +20126,7 @@ msgstr ""
 #. translators: 1: Number of database updates performed 2: Database version number
 #: includes/cli/class-wc-cli-update-command.php:79
 msgid "%1$d update functions completed. Database version is %2$s"
-msgstr ""
+msgstr "Đã hoàn tất các chức năng cập nhật% 1$d. Phiên bản cơ sở dữ liệu là% 2$s"
 
 #. translators: %d: Setting value
 #: includes/customizer/class-wc-shop-customizer.php:100
@@ -20307,7 +20314,7 @@ msgstr ""
 
 #: includes/customizer/class-wc-shop-customizer.php:652
 msgid "1:1"
-msgstr ""
+msgstr "1:1"
 
 #: includes/customizer/class-wc-shop-customizer.php:653
 msgid "Images will be cropped into a square"
@@ -20345,7 +20352,7 @@ msgstr ""
 #. Translators: %s field name.
 #: includes/customizer/class-wc-shop-customizer.php:705
 msgid "%s field"
-msgstr ""
+msgstr "%s mục"
 
 #: includes/customizer/class-wc-shop-customizer.php:712
 msgid "Required"
@@ -20415,6 +20422,8 @@ msgid ""
 "about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,"
 "was,what,when,where,who,will,with,www"
 msgstr ""
+"about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,"
+"was,what,when,where,who,will,with,www"
 
 #: includes/data-stores/class-wc-order-data-store-cpt.php:463
 msgid "Invalid customer query."
@@ -20645,7 +20654,7 @@ msgstr ""
 
 #: includes/emails/class-wc-email-customer-note.php:72
 msgid "A note has been added to your order"
-msgstr ""
+msgstr "Ghi chú được thêm vào đơn hàng"
 
 #: includes/emails/class-wc-email-customer-on-hold-order.php:32
 msgid "Order on-hold"
@@ -20918,17 +20927,17 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:132
 msgid "Account details:"
-msgstr ""
+msgstr "Chi tiết:"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:139
 msgid "Account name"
-msgstr ""
+msgstr "Tên tài khoản"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:140
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:316
 #: includes/gateways/class-wc-payment-gateway-echeck.php:51
 msgid "Account number"
-msgstr ""
+msgstr "Số tài khoản"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:141
 msgid "Bank name"
@@ -21079,7 +21088,7 @@ msgstr ""
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:111
 msgid "Accept COD if the order is virtual"
-msgstr ""
+msgstr "Chấp nhận COD nếu đơn hàng ảo"
 
 #. Translators: %1$s shipping method name.
 #: includes/gateways/cod/class-wc-gateway-cod.php:230
@@ -21094,7 +21103,7 @@ msgstr "%1$s (#%2$s)"
 #. Translators: %1$s zone name, %2$s shipping method instance name.
 #: includes/gateways/cod/class-wc-gateway-cod.php:248
 msgid "%1$s &ndash; %2$s"
-msgstr ""
+msgstr "%1$s &ndash; %2$s"
 
 #. Translators: %1$s zone name, %2$s shipping method instance name.
 #: includes/gateways/cod/class-wc-gateway-cod.php:248
@@ -21302,7 +21311,7 @@ msgstr ""
 
 #: includes/gateways/paypal/includes/settings-paypal.php:40
 msgid "Advanced options"
-msgstr ""
+msgstr "Tùy chọn nâng cao"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:45
 msgid "PayPal sandbox"
@@ -21395,7 +21404,7 @@ msgstr ""
 
 #: includes/gateways/paypal/includes/settings-paypal.php:98
 msgid "Address override"
-msgstr ""
+msgstr "Địa chỉ khác"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:100
 msgid ""
@@ -21529,11 +21538,11 @@ msgstr ""
 
 #: includes/import/class-wc-product-csv-importer.php:1073
 msgid "A product with this ID already exists."
-msgstr ""
+msgstr "Sản phẩm có ID này đã tồn tại."
 
 #: includes/import/class-wc-product-csv-importer.php:1085
 msgid "A product with this SKU already exists."
-msgstr ""
+msgstr "Sản phẩm có mã SKU này đã tồn tại."
 
 #: includes/import/class-wc-product-csv-importer.php:1097
 msgid "No matching product exists to update."
@@ -21647,7 +21656,7 @@ msgstr ""
 #: includes/legacy/api/v2/class-wc-api-authentication.php:147
 #: includes/legacy/api/v3/class-wc-api-authentication.php:143
 msgid "%s parameter is missing"
-msgstr ""
+msgstr "%s tham số bị thiếu"
 
 #: includes/legacy/api/v1/class-wc-api-authentication.php:202
 #: includes/legacy/api/v2/class-wc-api-authentication.php:200
@@ -22525,7 +22534,7 @@ msgstr ""
 #: includes/log-handlers/class-wc-log-handler-email.php:156
 msgid "[%1$s] %2$s: %3$s WooCommerce log message"
 msgid_plural "[%1$s] %2$s: %3$s WooCommerce log messages"
-msgstr[0] ""
+msgstr[0] "[%1$s] %2$s: %3$s Nhật ký"
 
 #: includes/log-handlers/class-wc-log-handler-email.php:177
 msgid "You have received the following WooCommerce log message:"
@@ -23172,14 +23181,14 @@ msgstr ""
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1050
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1113
 msgid "Address line 1."
-msgstr ""
+msgstr "Địa chỉ 1."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:748
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:811
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1055
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1118
 msgid "Address line 2."
-msgstr ""
+msgstr "Địa chỉ 2."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:753
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:816
@@ -24264,7 +24273,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version3/class-wc-rest-products-controller.php:253
 #: includes/rest-api/Utilities/ImageAttachment.php:61
 msgid "#%s is an invalid image ID."
-msgstr ""
+msgstr "#%s ID ảnh bị sai."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1637
 #: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:733
@@ -26115,7 +26124,7 @@ msgstr ""
 #. translators: %d: amount of permissions
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php:490
 msgid "%d permissions deleted"
-msgstr ""
+msgstr "%d quyền đã xóa"
 
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php:497
 msgid "Lookup tables are regenerating"
@@ -26334,7 +26343,7 @@ msgstr ""
 
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:324
 msgid "Active plugins."
-msgstr ""
+msgstr "Kích hoạt Plugin."
 
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:333
 msgid "Inactive plugins."
@@ -26547,7 +26556,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version3/class-wc-rest-data-continents-controller.php:59
 #: includes/rest-api/Controllers/Version3/class-wc-rest-data-continents-controller.php:250
 msgid "2 character continent code."
-msgstr ""
+msgstr "2 ký tự mã."
 
 #: includes/rest-api/Controllers/Version3/class-wc-rest-data-continents-controller.php:185
 #: includes/rest-api/Controllers/Version3/class-wc-rest-data-countries-controller.php:133
@@ -27004,17 +27013,17 @@ msgstr ""
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:95
 #: includes/shipping/legacy-free-shipping/class-wc-shipping-legacy-free-shipping.php:138
 msgid "A minimum order amount"
-msgstr ""
+msgstr "Lượng đơn hàng tối thiểu"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:96
 #: includes/shipping/legacy-free-shipping/class-wc-shipping-legacy-free-shipping.php:139
 msgid "A minimum order amount OR a coupon"
-msgstr ""
+msgstr "Lượng đơn hàng tối thiểu hoặc mã ưu đãi"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:97
 #: includes/shipping/legacy-free-shipping/class-wc-shipping-legacy-free-shipping.php:140
 msgid "A minimum order amount AND a coupon"
-msgstr ""
+msgstr "Lượng đơn hàng tối thiểu và mã ưu đãi"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:101
 #: includes/shipping/legacy-free-shipping/class-wc-shipping-legacy-free-shipping.php:144
@@ -27106,7 +27115,7 @@ msgstr ""
 #: includes/shipping/legacy-flat-rate/includes/settings-flat-rate.php:118
 #: includes/shipping/legacy-flat-rate/includes/settings-flat-rate.php:124
 msgid "Additional rates"
-msgstr ""
+msgstr "Chi phí khác"
 
 #: includes/shipping/legacy-flat-rate/includes/settings-flat-rate.php:121
 msgid ""
@@ -27432,7 +27441,7 @@ msgstr ""
 #. translators: %s template
 #: includes/wc-core-functions.php:317
 msgid "%s does not exist."
-msgstr ""
+msgstr "%s không có."
 
 #: includes/wc-core-functions.php:334
 msgid "action_args should not be overwritten when calling wc_get_template."
@@ -27444,11 +27453,11 @@ msgstr ""
 
 #: includes/wc-core-functions.php:467
 msgid "Afghan afghani"
-msgstr ""
+msgstr "Afghan afghani"
 
 #: includes/wc-core-functions.php:468
 msgid "Albanian lek"
-msgstr ""
+msgstr "Albanian lek"
 
 #: includes/wc-core-functions.php:469
 msgid "Armenian dram"
@@ -28127,7 +28136,7 @@ msgstr ""
 #. translators: 1: wc_load_cart 2: woocommerce_init
 #: includes/wc-core-functions.php:2426
 msgid "%1$s should not be called before the %2$s action."
-msgstr ""
+msgstr "%1$s không được gọi trước hành động %2$s."
 
 #: includes/wc-coupon-functions.php:22
 msgid "Percentage discount"
@@ -28149,11 +28158,11 @@ msgstr ""
 #. translators: %s: stock amount
 #: includes/wc-formatting-functions.php:1198
 msgid "%s in stock"
-msgstr ""
+msgstr "%s trong kho"
 
 #: includes/wc-formatting-functions.php:1203
 msgid "(can be backordered)"
-msgstr ""
+msgstr "(có thể đặt hàng lại)"
 
 #. translators: 1: price from 2: price to
 #: includes/wc-formatting-functions.php:1243
@@ -28203,7 +28212,7 @@ msgstr ""
 #: includes/wc-product-functions.php:63
 msgid ""
 "%1$s should not be called before the %2$s, %3$s and %4$s actions have finished."
-msgstr ""
+msgstr "%1$s không được gọi trước khi các hành động %2$s, %3$s và %4$s kết thúc."
 
 #: includes/wc-product-functions.php:248
 msgctxt "slug"
@@ -28268,7 +28277,7 @@ msgstr ""
 #. translators: 1: param 2: type
 #: includes/wc-rest-functions.php:187
 msgid "%1$s is not of type %2$s"
-msgstr ""
+msgstr "%1$s không phải loại %2$s"
 
 #: includes/wc-rest-functions.php:194
 msgid "The date you provided is invalid."
@@ -28348,7 +28357,7 @@ msgstr ""
 #: includes/wc-template-functions.php:1790 templates/checkout/form-shipping.php:57
 #: templates/single-product/tabs/additional-information.php:22
 msgid "Additional information"
-msgstr ""
+msgstr "Thông tin khác"
 
 #. translators: %s: reviews count
 #: includes/wc-template-functions.php:1800
@@ -28778,12 +28787,12 @@ msgstr ""
 
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:72
 msgid "action created"
-msgstr ""
+msgstr "hành động được tạo"
 
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:76
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php:134
 msgid "action canceled"
-msgstr ""
+msgstr "hành động bị hủy"
 
 #. translators: %s: context
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:82
@@ -28801,7 +28810,7 @@ msgstr ""
 
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:94
 msgid "action complete"
-msgstr ""
+msgstr "hành động thành công"
 
 #. translators: 1: context 2: exception message
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:102
@@ -28811,7 +28820,7 @@ msgstr ""
 #. translators: %s: exception message
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:105
 msgid "action failed: %s"
-msgstr ""
+msgstr "hành động thất bại: %s"
 
 #. translators: %s: amount of time
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:112
@@ -28825,7 +28834,7 @@ msgstr ""
 
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:123
 msgid "action reset"
-msgstr ""
+msgstr "hành động reset"
 
 #. translators: %s: context
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:129
@@ -28834,7 +28843,7 @@ msgstr ""
 
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:131
 msgid "action ignored"
-msgstr ""
+msgstr "hành động bị bỏ qua"
 
 #. translators: %s: exception message
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Logger.php:146
@@ -28887,7 +28896,7 @@ msgstr ""
 
 #: packages/action-scheduler/classes/ActionScheduler_AdminView.php:127
 msgid "About"
-msgstr ""
+msgstr "Giới thiệu"
 
 #: packages/action-scheduler/classes/ActionScheduler_AdminView.php:129
 msgid "About Action Scheduler %s"
@@ -29031,25 +29040,25 @@ msgstr ""
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:144
 msgid "%s year"
 msgid_plural "%s years"
-msgstr[0] ""
+msgstr[0] "%s năm"
 
 #. translators: %s: amount of time
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:149
 msgid "%s month"
 msgid_plural "%s months"
-msgstr[0] ""
+msgstr[0] "%s tháng"
 
 #. translators: %s: amount of time
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:154
 msgid "%s week"
 msgid_plural "%s weeks"
-msgstr[0] ""
+msgstr[0] "%s tuần"
 
 #. translators: %s: amount of time
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:159
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] ""
+msgstr[0] "%s ngày"
 
 #. translators: %s: amount of time
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:164
@@ -29061,13 +29070,13 @@ msgstr[0] "%s giờ"
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:169
 msgid "%s minute"
 msgid_plural "%s minutes"
-msgstr[0] ""
+msgstr[0] "%s phút"
 
 #. translators: %s: amount of time
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:174
 msgid "%s second"
 msgid_plural "%s seconds"
-msgstr[0] ""
+msgstr[0] "%s giây"
 
 #: packages/action-scheduler/classes/ActionScheduler_ListTable.php:201
 msgid "Now!"
@@ -29325,7 +29334,7 @@ msgstr ""
 
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
 msgid "Action Group"
-msgstr ""
+msgstr "Hành động nhóm"
 
 #: packages/action-scheduler/classes/migration/ActionMigrator.php:95
 msgid "Unable to remove source migrated action %s"
@@ -30802,7 +30811,7 @@ msgstr ""
 #. translators: 1: numeric product quantity, 2: name of product
 #: packages/woocommerce-admin/src/API/Reports/Orders/Controller.php:448
 msgid "%1$s× %2$s"
-msgstr ""
+msgstr "%1$s× %2$s"
 
 #: packages/woocommerce-admin/src/API/Reports/Orders/Controller.php:478
 msgid "Product(s)"
@@ -30950,7 +30959,7 @@ msgstr ""
 #. translators: %s is product name
 #: packages/woocommerce-admin/src/API/Reports/Products/DataStore.php:227
 msgid "%s (Deleted)"
-msgstr ""
+msgstr "%s (đã xóa)"
 
 #: packages/woocommerce-admin/src/API/Reports/Products/Stats/Controller.php:195
 msgid "Human readable segment label, either product or variation name."
@@ -31086,17 +31095,17 @@ msgstr ""
 #: packages/woocommerce-admin/src/API/Reports/TimeInterval.php:587
 #: packages/woocommerce-admin/src/API/Reports/TimeInterval.php:619
 msgid "%1$s is not a numerically indexed array."
-msgstr ""
+msgstr "%1$s không phải là một mảng được lập chỉ mục số."
 
 #. translators: %s: parameter name
 #: packages/woocommerce-admin/src/API/Reports/TimeInterval.php:599
 msgid "%s must contain 2 numbers."
-msgstr ""
+msgstr "%s phải có 2 chữ số."
 
 #. translators: %s: parameter name
 #: packages/woocommerce-admin/src/API/Reports/TimeInterval.php:631
 msgid "%s must contain 2 valid dates."
-msgstr ""
+msgstr "%s phải chứa 2 ngày."
 
 #: packages/woocommerce-admin/src/API/Reports/Variations/Controller.php:222
 msgid "Product attributes."
@@ -31303,7 +31312,7 @@ msgstr ""
 #. translators: %1$s: updated title, %2$s: blog info name
 #: packages/woocommerce-admin/src/Loader.php:936
 msgid "%1$s &lsaquo; %2$s"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s"
 
 #: packages/woocommerce-admin/src/Loader.php:1103
 msgid "Settings for WooCommerce admin reporting."
@@ -31852,7 +31861,7 @@ msgstr ""
 #. translators: name of the extension subscription expiring soon
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Woo_Subscriptions_Notes.php:311
 msgid "%s subscription expiring soon"
-msgstr ""
+msgstr "%s sắp hết thời gian"
 
 #. translators: number of days until the subscription expires
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Woo_Subscriptions_Notes.php:317
@@ -31868,7 +31877,7 @@ msgstr ""
 #. translators: name of the extension subscription that expired
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Woo_Subscriptions_Notes.php:372
 msgid "%s subscription expired"
-msgstr ""
+msgstr "%s đã hết hạn"
 
 #. translators: date the subscription expired, e.g. Jun 7th 2018
 #: packages/woocommerce-admin/src/Notes/WC_Admin_Notes_Woo_Subscriptions_Notes.php:378
@@ -32405,7 +32414,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/BillingAddressSchema.php:123
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/ShippingAddressSchema.php:112
 msgid "%1$s requires an instance of %2$s or %3$s for the address"
-msgstr ""
+msgstr "%1$s yêu cầu một phiên bản của %2$s hoặc %3$s cho địa chỉ"
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartCouponSchema.php:35
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/OrderCouponSchema.php:31
@@ -32973,7 +32982,7 @@ msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/ProductSchema.php:391
 msgid "Add to cart button parameters."
-msgstr ""
+msgstr "Tham số nút Cho vào giỏ."
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/ProductSchema.php:397
 msgid "Button text."
@@ -32985,7 +32994,7 @@ msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/ProductSchema.php:409
 msgid "Add to cart URL."
-msgstr ""
+msgstr "URL cho vào giỏ."
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/TermSchema.php:45
 msgid "String based identifier for the term."
@@ -33050,7 +33059,7 @@ msgstr ""
 msgid ""
 "\"%s\" has already been applied and cannot be used in conjunction with other "
 "coupons."
-msgstr ""
+msgstr "\"%s\" đã được áp dụng và không thể sử dụng cùng ưu đãi này."
 
 #. translators: %1$s coupon code, %2$s reason.
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php:600
@@ -33135,7 +33144,7 @@ msgstr ""
 #. translators: %s: app name
 #: templates/auth/form-grant-access.php:26 templates/auth/form-login.php:25
 msgid "%s would like to connect to your store"
-msgstr ""
+msgstr "%s muốn kết nối với kho hàng"
 
 #. Translators: %1$s App name, %2$s scope.
 #: templates/auth/form-grant-access.php:35
@@ -33586,7 +33595,7 @@ msgstr ""
 #. translators: %s: Quantity.
 #: templates/global/quantity-input.php:28
 msgid "%s quantity"
-msgstr ""
+msgstr "%s số lượng"
 
 #: templates/global/quantity-input.php:42
 msgctxt "Product quantity input tooltip"
@@ -33693,7 +33702,7 @@ msgstr ""
 
 #: templates/myaccount/form-login.php:99
 msgid "A password will be sent to your email address."
-msgstr ""
+msgstr "Mật khẩu sẽ được gửi tới email."
 
 #: templates/myaccount/form-lost-password.php:25
 msgid ""
@@ -33740,7 +33749,7 @@ msgstr ""
 #: templates/myaccount/my-downloads.php:39
 msgid "%s download remaining"
 msgid_plural "%s downloads remaining"
-msgstr[0] ""
+msgstr[0] "%s còn lại"
 
 #: templates/myaccount/my-orders.php:37
 msgid "Recent orders"
@@ -33750,7 +33759,7 @@ msgstr ""
 #: templates/myaccount/my-orders.php:75 templates/myaccount/orders.php:61
 msgid "%1$s for %2$s item"
 msgid_plural "%1$s for %2$s items"
-msgstr[0] ""
+msgstr[0] "%1$s cho mục %2$s"
 
 #: templates/myaccount/orders.php:89
 msgid "Previous"
@@ -33843,7 +33852,7 @@ msgstr ""
 #. translators: %s is product title
 #: templates/single-product-reviews.php:75
 msgid "Add a review"
-msgstr ""
+msgstr "Thêm đánh giá"
 
 #. translators: %s is product title
 #: templates/single-product-reviews.php:75
@@ -33946,7 +33955,7 @@ msgstr ""
 #: templates/single-product/rating.php:38
 msgid "%s customer review"
 msgid_plural "%s customer reviews"
-msgstr[0] ""
+msgstr[0] "%s ý kiến khách hàng"
 
 #: templates/single-product/related.php:27
 msgid "Related products"
@@ -33967,7 +33976,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/atomic/blocks/product-elements/add-to-cart/constants.js:7
 #: packages/woocommerce-blocks/build/all-products.js:1
 msgid "Add to Cart"
-msgstr ""
+msgstr "Cho vào giỏ"
 
 #: packages/woocommerce-blocks/assets/js/atomic/blocks/product-elements/add-to-cart/constants.js:9
 #: packages/woocommerce-blocks/build/all-products.js:1
@@ -34096,7 +34105,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/atomic/blocks/product-elements/button/constants.js:7
 #: packages/woocommerce-blocks/build/all-products.js:1
 msgid "Add to Cart Button"
-msgstr ""
+msgstr "Nút Cho vào giỏ"
 
 #: packages/woocommerce-blocks/assets/js/atomic/blocks/product-elements/button/constants.js:12
 #: packages/woocommerce-blocks/build/all-products.js:1
@@ -34677,7 +34686,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:6
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Address (optional)"
-msgstr ""
+msgstr "Địa chỉ (tùy chọn)"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/address-form/default-address-fields.js:68
 #: packages/woocommerce-blocks/build/cart-frontend.js:6
@@ -34824,7 +34833,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "%d shipping option was found."
 msgid_plural "%d shipping options were found."
-msgstr[0] ""
+msgstr[0] "%d lựa chọn vận chuyển được tìm thấy."
 
 #. translators: %d number of shipping packages packages.
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/shipping-rates-control/index.js:58
@@ -34844,7 +34853,7 @@ msgstr[0] ""
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "%d shipping option was found"
 msgid_plural "%d shipping options were found"
-msgstr[0] ""
+msgstr[0] "%d lựa chọn vận chuyển được tìm thấy"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/shipping-rates-control/index.js:84
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
@@ -34862,7 +34871,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "%s (%d unit)"
 msgid_plural "%s (%d units)"
-msgstr[0] ""
+msgstr[0] "%s (%d đơn vị)"
 
 #: packages/woocommerce-blocks/assets/js/base/components/cart-checkout/totals/totals-coupon-code-input/index.js:51
 #: packages/woocommerce-blocks/build/cart-frontend.js:14
@@ -35076,7 +35085,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/all-products-frontend.js:6
 #: packages/woocommerce-blocks/build/all-products.js:1
 msgid "…"
-msgstr "... ."
+msgstr "…"
 
 #: packages/woocommerce-blocks/assets/js/base/components/payment-methods/express-checkout.js:24
 #: packages/woocommerce-blocks/build/checkout-frontend.js:14
@@ -35561,21 +35570,21 @@ msgstr ""
 #: packages/woocommerce-blocks/build/attribute-filter-frontend.js:14
 #: packages/woocommerce-blocks/build/attribute-filter.js:1
 msgid "%s filter replaced with %s."
-msgstr ""
+msgstr "%s bộ lọc được thay bởi %s."
 
 #. translators: %s attribute term (for example: 'red', 'blue', 'large'...)
 #: packages/woocommerce-blocks/assets/js/blocks/attribute-filter/block.js:268
 #: packages/woocommerce-blocks/build/attribute-filter-frontend.js:14
 #: packages/woocommerce-blocks/build/attribute-filter.js:1
 msgid "%s filter added."
-msgstr ""
+msgstr "%s bộ lọc đã thêm."
 
 #. translators: %s attribute term (for example: 'red', 'blue', 'large'...)
 #: packages/woocommerce-blocks/assets/js/blocks/attribute-filter/block.js:279
 #: packages/woocommerce-blocks/build/attribute-filter-frontend.js:14
 #: packages/woocommerce-blocks/build/attribute-filter.js:1
 msgid "%s filter removed."
-msgstr ""
+msgstr "%s bộ lọc đã xóa."
 
 #: packages/woocommerce-blocks/assets/js/blocks/attribute-filter/edit.js:78
 #: packages/woocommerce-blocks/assets/js/blocks/product-categories/block.js:91
@@ -35694,7 +35703,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/products-by-attribute.js:1
 msgid "%d attribute selected"
 msgid_plural "%d attributes selected"
-msgstr[0] ""
+msgstr[0] "%d thuộc tính được chọn"
 
 #: packages/woocommerce-blocks/assets/js/blocks/attribute-filter/edit.js:326
 #: packages/woocommerce-blocks/assets/js/components/product-attribute-term-control/index.js:124
@@ -35807,7 +35816,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/cart/empty-cart-edit/index.js:49
 #: packages/woocommerce-blocks/build/cart.js:1
 msgid "<a href=\"%s\">Browse store</a>."
-msgstr ""
+msgstr "<a href=\"%s\">Chọn kho</a>."
 
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/cart/empty-cart-edit/index.js:68
 #: packages/woocommerce-blocks/build/cart.js:1
@@ -35992,7 +36001,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/edit.js:79
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgid "Address options"
-msgstr ""
+msgstr "Tùy chọn địa chỉ"
 
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/edit.js:85
 #: packages/woocommerce-blocks/build/checkout.js:1
@@ -37182,7 +37191,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/products-by-attribute-legacy.js:1
 #: packages/woocommerce-blocks/build/products-by-attribute.js:1
 msgid "Add to Cart button"
-msgstr ""
+msgstr "Nút cho vào giỏ"
 
 #: packages/woocommerce-blocks/assets/js/components/grid-content-control/index.js:71
 #: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
@@ -37202,7 +37211,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/products-by-attribute-legacy.js:1
 #: packages/woocommerce-blocks/build/products-by-attribute.js:1
 msgid "Add to Cart button is visible."
-msgstr ""
+msgstr "Nút cho vào giỏ được hiện."
 
 #: packages/woocommerce-blocks/assets/js/components/grid-content-control/index.js:75
 #: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
@@ -37222,7 +37231,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/products-by-attribute-legacy.js:1
 #: packages/woocommerce-blocks/build/products-by-attribute.js:1
 msgid "Add to Cart button is hidden."
-msgstr ""
+msgstr "Nút Cho vào giỏ bị ẩn."
 
 #: packages/woocommerce-blocks/assets/js/components/grid-layout-control/index.js:40
 #: packages/woocommerce-blocks/build/all-products.js:1
@@ -37550,7 +37559,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/single-product.js:1
 msgid "%d variation"
 msgid_plural "%d variations"
-msgstr[0] ""
+msgstr[0] "%d biến thể"
 
 #: packages/woocommerce-blocks/assets/js/components/product-orderby-control/index.js:18
 #: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
@@ -37679,7 +37688,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/product-tag.js:1
 msgid "%d tag selected"
 msgid_plural "%d tags selected"
-msgstr[0] ""
+msgstr[0] "%d thẻ được chọn"
 
 #: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:118
 #: packages/woocommerce-blocks/build/product-tag-legacy.js:1
@@ -37900,14 +37909,14 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgctxt "example product in Cart Block"
 msgid "Beanie with Logo"
-msgstr ""
+msgstr "Magic có Logo"
 
 #: packages/woocommerce-blocks/assets/js/previews/shipping-rates.js:23
 #: packages/woocommerce-blocks/build/cart.js:1
 #: packages/woocommerce-blocks/build/checkout.js:1
 msgctxt "example product in Cart Block"
 msgid "Beanie"
-msgstr ""
+msgstr "Magic"
 
 #: packages/woocommerce-blocks/build/all-products.js:1
 msgid "Showing All Products block preview."
@@ -38060,12 +38069,12 @@ msgstr "%(field)s tối thiểu"
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "%(field)s range start"
-msgstr ""
+msgstr "%(field)s đầu"
 
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "%(field)s range end"
-msgstr ""
+msgstr "%(field)s cuối"
 
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
@@ -38186,7 +38195,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "Add a Filter"
-msgstr ""
+msgstr "Thêm bộ lọc"
 
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
@@ -38368,7 +38377,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "%s is not selectable."
-msgstr ""
+msgstr "%s không cho phép chọn."
 
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
@@ -38453,7 +38462,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "%1$s out of %2$s stars."
-msgstr ""
+msgstr "%1$s quá %2$s sao."
 
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
@@ -38566,4 +38575,4 @@ msgstr ""
 #: packages/woocommerce-blocks/build/vendors-legacy.js:6
 #: packages/woocommerce-blocks/build/vendors.js:6
 msgid "+%d more"
-msgstr ""
+msgstr "+%d thêm"
